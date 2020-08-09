@@ -149,8 +149,8 @@ Markdown'da tablo oluşturmak aşırı kolay.
 | Öğrenci 3 | Proje 3 |
 ```
 
-| YBS | Proje |
-| --------- | --------|
-| Öğrenci 1 | Proje 1 |
-| Öğrenci 2 | Proje 2 |
-| Öğrenci 3 | Proje 3 |
+| YBS Öğrencileri | Proje |
+| --------------- | --------|
+| Öğrenci 1       | Proje 1 |
+| Öğrenci 2       | Proje 2 |
+| Öğrenci 3       | Proje 3 |
