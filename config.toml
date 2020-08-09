@@ -11,7 +11,7 @@ themesDir = "themes"
 
 # website title
 # 网站标题
-title = "LoveIt"
+title = "YBS BLOG"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -81,7 +81,7 @@ enableEmoji = true
         post = ""
         name = ""
         url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
+        title = "Yazı Planı"
         weight = 5
     [languages.tr.params]
       # site description
@@ -91,7 +91,7 @@ enableEmoji = true
       # App icon config
       [languages.tr.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "YBS Blog"
+        title = "YBS BLOG"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -252,7 +252,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "YBS Blog"
+      name = "YBS BLOG"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fas fa-terminal'></i>"
@@ -297,7 +297,7 @@ enableEmoji = true
     paginate = 20
     # date format (month and day)
     # 日期格式 (月和日)
-    dateFormat = "01-02"
+    dateFormat = "02-01"
     # amount of RSS pages
     # RSS 文章数目
     rss = 10
@@ -310,7 +310,7 @@ enableEmoji = true
     paginate = 20
     # date format (month and day)
     # 日期格式 (月和日)
-    dateFormat = "01-02"
+    dateFormat = "02-01"
     # amount of RSS pages
     # RSS 文章数目
     rss = 10
@@ -418,18 +418,18 @@ enableEmoji = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = true
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
       Myspace = false
       Blogger = false
