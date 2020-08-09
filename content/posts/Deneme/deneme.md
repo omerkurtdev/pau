@@ -196,4 +196,8 @@ Burası dipnottur.\[^1\].
 
 ## 9. Fotoğraflar
 
+```
+![](images/fotograf.jpg)
+```
+
 ![](images/fotograf.jpg)
