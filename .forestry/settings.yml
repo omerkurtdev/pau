@@ -9,15 +9,15 @@ sections:
   label: Postlar
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
-  new_doc_ext: ".md"
-upload_dir: static/uploads
-public_path: "/uploads"
+  new_doc_ext: md
+upload_dir: static/images
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
