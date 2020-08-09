@@ -103,3 +103,9 @@ Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
 > "Ne Mutlu Türküm Diyene!"
 ```
 > "Ne Mutlu Türküm Diyene!"
+
+## 5. Kod
+### Tek satır kod
+```Markdown
+`printf("Merhaba Dünya")`
+```
