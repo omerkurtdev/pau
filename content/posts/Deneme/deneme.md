@@ -204,7 +204,7 @@ Evet, bu yazımda sizlere Markdown yazmak için gerekli Markdown sözdizimlerind
 
 Farklı alternatifler de var mesela [Simplenote](https://simplenote.com/)
 
-Merak edenleriniz varsa bu postu nasıl yazdığımı altta bulunan `Markdown Oku`'ya tıklayabilirler.
+Merak edenleriniz varsa bu postu nasıl yazdığımı, altta bulunan `Markdown Oku`'ya tıklayabilirler.
 
 ## Kaynaklar
 - [markdownguide](https://www.markdownguide.org/getting-started/)
