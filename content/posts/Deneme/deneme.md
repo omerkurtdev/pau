@@ -142,7 +142,7 @@ Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
 ## 6. Tablo Oluşturmak
 Markdown'da tablo oluşturmak aşırı kolay.
 ```
-| YBS | Proje |
+| YBS Öğrencileri | Proje |
 | --------- | ------- |
 | Öğrenci 1 | Proje 1 |
 | Öğrenci 2 | Proje 2 |
