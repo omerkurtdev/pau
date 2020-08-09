@@ -199,3 +199,11 @@ Burası dipnottur.[^1]
 ![Manzara](/images/fotograf.jpg)
 ```
 ![Manzara](/images/fotograf.jpg)
+
+Evet, bu yazımda sizlere Markdown yazmak için gerekli Markdown sözdizimlerinden bahsettim. Peki Markdown yazmak için hangi editör ideal sorusuna şahsi cevabım: [Joplin](https://joplinapp.org/)
+
+Farklı alternatifler de var mesela [Simplenote](https://simplenote.com/]
+
+## Kaynaklar
+- [markdownguide](https://www.markdownguide.org/getting-started/)
+- [markdownguide](https://www.markdownguide.org/basic-syntax/)
