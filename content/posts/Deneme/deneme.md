@@ -154,3 +154,7 @@ Markdown'da tablo oluşturmak aşırı kolay.
 | Öğrenci 1 | Proje 1 |
 | Öğrenci 2 | Proje 2 |
 | Öğrenci 3 | Proje 3 |
+
+Yada  tablo generatorlar var işinizi daha da kolaylaştıran şu linklerden ulaşabilirsiniz:
+- [tablesgenerator](https://www.tablesgenerator.com/markdown_tables)
+- [tableconvert](https://tableconvert.com/)
