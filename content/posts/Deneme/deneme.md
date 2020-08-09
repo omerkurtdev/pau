@@ -165,3 +165,6 @@ Yada  tablo generatorlar var işinizi daha da kolaylaştıran şu linklerden ula
 <okurt16@posta.pau.edu.tr>
 [YBS](https://ybs.pau.edu.tr)
 ```
+<https://omerkurt.dev>
+<okurt16@posta.pau.edu.tr>
+[YBS](https://ybs.pau.edu.tr)
