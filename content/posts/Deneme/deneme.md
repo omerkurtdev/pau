@@ -111,3 +111,11 @@ Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
 ```
 
 `printf("Merhaba Dünya")`
+
+### Çok satırlı kod
+Çok satırlı kod yazmak için <code>```</code> kullanılır.
+{{< highlight markdown >}}
+```markdown
+Kodlar Buraya
+```
+{{< / highlight >}}
