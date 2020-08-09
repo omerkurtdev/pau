@@ -33,3 +33,9 @@ Yazdığımızda böyle gözekecek.
 - Liste 1
 - Liste 2
 - Liste 3
+
+```Markdown
+1. Liste 1
+2. Liste 2
+3. Liste 3
+```
