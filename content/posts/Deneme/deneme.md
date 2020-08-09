@@ -24,7 +24,7 @@ Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
 <!--more-->
 Merhaba arkadaşlar, Markdown yani `.md` uzantılı belgeleri hiç gördünüz mü? Markdown, internette yazı yazmayı kolaylaştıran belge türü diyebiliriz. Hayatımızda o kadar text editör girdi ki yazıları düzenlemek çile haline geliyor, ama Markdown ise o kadar kolay ki birkaç örnekle göstereyim hemen.
 
-## Liste Gösterimi
+## 1. Liste Gösterimi
 
 ```Markdown
 - Liste 1
@@ -64,7 +64,7 @@ Yazdığımızda böyle gözekecek.
 - [ ] Mail at
 
 
-## Başlık Gösterimi
+## 2. Başlık Gösterimi
 
 Hangi büyüklükte başlık istiyorsanız başına sadece `#` koymak yeterli.
 
@@ -75,7 +75,7 @@ Hangi büyüklükte başlık istiyorsanız başına sadece `#` koymak yeterli.
 ##### h5 Başlık
 ###### h6 Başlık
 ```
-## Yazı Tipleri Gösterimi
+## 3. Yazı Tipleri Gösterimi
 ### Bold
 ```Markdown
 **Kalın yazılar yazmak için**
@@ -96,7 +96,7 @@ _Italics bir yazı_
 ```
 ~~Üstü çizili yazı~~
 
-## Alıntı Yapma
+## 4. Alıntı Yapma
 Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
 
 ```Markdown
