@@ -53,6 +53,17 @@ Yazdığımızda böyle gözekecek.
     * Liste 5
 * Liste 6
 
+
+```Markdown
+- [x] Mailini kontrol et
+- [ ] Websiteyi güncelle
+- [ ] Mail at
+```
+- [x] Mailini kontrol et
+- [ ] Websiteyi güncelle
+- [ ] Mail at
+
+
 ## Başlık Gösterimi
 
 Hangi büyüklükte başlık istiyorsanız başına sadece `#` koymak yeterli.
