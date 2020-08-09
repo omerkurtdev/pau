@@ -200,4 +200,4 @@ Burası dipnottur.\[^1\].
 ![Manzara](images/fotograf.jpg)
 ```
 
-![](images/fotograf.jpg)
+![Manzara](/images/fotograf.jpg)
