@@ -38,6 +38,21 @@ Yazdığımızda böyle gözekecek.
 * Liste 2
 * Liste 3
 
+```Markdown
+* Liste 1
+* Liste 2
+* Liste 3
+ 	* Liste 4
+    * Liste 5
+* Liste 6
+```
+* Liste 1
+* Liste 2
+* Liste 3
+ 	* Liste 4
+    * Liste 5
+* Liste 6
+
 ## Başlık Gösterimi
 
 Hangi büyüklükte başlık istiyorsanız başına sadece `#` koymak yeterli.
