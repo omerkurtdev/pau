@@ -20,6 +20,8 @@ enable = false
 enable = false
 
 +++
-Öğrenci Bloğu, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur. Bu bloğun amacı ise öğrencilere yazı yazma alışkanlığı ve paylaşma alışkanlığını kazandırmaktır. Siz de bloğa katkıda bulunmak istiyorsanız, bize Telegram adresimizden ulaşabilirsiniz. 
+Öğrenci Bloğu, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur. Siz de bloğa katkıda bulunmak istiyorsanız, bize Telegram adresimizden ulaşabilirsiniz. 
+
+> Bir şeyi gerçekten bilmek, onu anlatmakla olur.
 
 Web sitemiz [açık kaynak](https://github.com/ybsci/pau) kodludur ve [Hugo](https://gohugo.io/) tarafından desteklenmektedir, sitemizin her kodunu inceleyebilirsiniz.
