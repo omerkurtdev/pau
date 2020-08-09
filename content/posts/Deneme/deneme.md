@@ -20,21 +20,26 @@ enable = false
 enable = true
 
 +++
+Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
+<!--more-->
 Merhaba arkadaşlar, Markdown yani `.md` uzantılı belgeleri hiç gördünüz mü? Markdown, internette yazı yazmayı kolaylaştıran belge türü diyebiliriz. Hayatımızda o kadar text editör girdi ki yazıları düzenlemek çile haline geliyor, ama Markdown ise o kadar kolay ki birkaç örnekle göstereyim hemen.
 
 ## Liste Gösterimi
+
 ```Markdown
 - Liste 1
 - Liste 2
 - Liste 3 
 ```
+
 Yazdığımızda böyle gözekecek.
 
-- Liste 1
-- Liste 2
-- Liste 3
+* Liste 1
+* Liste 2
+* Liste 3
 
 ## Başlık Gösterimi
+
 Hangi büyüklükte başlık istiyorsanız başına sadece `#` koymak yeterli.
 
 ```Markdown
