@@ -46,23 +46,23 @@ Yazdığımızda böyle gözekecek.
     * Liste 5
 * Liste 6
 ```
+
 * Liste 1
 * Liste 2
 * Liste 3
- 	* Liste 4
-    * Liste 5
+  * Liste 4
+  * Liste 5
 * Liste 6
-
 
 ```Markdown
 - [x] Mailini kontrol et
 - [ ] Websiteyi güncelle
 - [ ] Mail at
 ```
-- [x] Mailini kontrol et
-- [ ] Websiteyi güncelle
-- [ ] Mail at
 
+* \[x\] Mailini kontrol et
+* \[ \] Websiteyi güncelle
+* \[ \] Mail at
 
 ## 2. Başlık Gösterimi
 
@@ -75,37 +75,51 @@ Hangi büyüklükte başlık istiyorsanız başına sadece `#` koymak yeterli.
 ##### h5 Başlık
 ###### h6 Başlık
 ```
+
 ## 3. Yazı Tipleri Gösterimi
+
 ### Bold
+
 ```Markdown
 **Kalın yazılar yazmak için**
 ```
+
 **Kalın yazılar yazmak için**
 
 ### Italics
+
 Italics bir biçimde yazıyı vurgulamak için şöyle yazılmalı:
+
 ```Markdown
 _Italics bir yazı_
 ```
+
 _Italics bir yazı_
 
 ### Üstü çizili yazı(Strikethrough)
+
 Üstü çizili yazı tipini kullanmak için sigma(`~`) kullanılır.
+
 ```Markdown
 ~~Üstü çizili yazı~~
 ```
+
 ~~Üstü çizili yazı~~
 
 ## 4. Alıntı Yapma
+
 Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
 
 ```Markdown
 > "Ne Mutlu Türküm Diyene!"
 ```
+
 > "Ne Mutlu Türküm Diyene!"
 
 ## 5. Kod
+
 ### Tek satır kod
+
 ```Markdown
 `printf("Merhaba Dünya")`
 ```
@@ -113,67 +127,73 @@ Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
 `printf("Merhaba Dünya")`
 
 ### Çok satırlı kod
-Çok satırlı kod yazmak için <code>```</code> kullanılır.
+
+Çok satırlı kod yazmak için <code>\`\`\`</code> kullanılır.
 {{< highlight markdown >}}
-```
- <!DOCTYPE html>
-<html>
-<body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+     <!DOCTYPE html>
+    <html>
+    <body>
+    
+    <h1>My First Heading</h1>
+    <p>My first paragraph.</p>
+    
+    </body>
+    </html> 
 
-</body>
-</html> 
-```
 {{< / highlight >}}
-```
- <!DOCTYPE html>
-<html>
-<body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html> 
-```
+     <!DOCTYPE html>
+    <html>
+    <body>
+    
+    <h1>My First Heading</h1>
+    <p>My first paragraph.</p>
+    
+    </body>
+    </html> 
 
 ## 6. Tablo Oluşturmak
+
 Markdown'da tablo oluşturmak aşırı kolay.
-```
-| YBS Öğrencileri | Proje |
-| --------- | ------- |
-| Öğrenci 1 | Proje 1 |
-| Öğrenci 2 | Proje 2 |
-| Öğrenci 3 | Proje 3 |
-```
+
+    | YBS Öğrencileri | Proje |
+    | --------- | ------- |
+    | Öğrenci 1 | Proje 1 |
+    | Öğrenci 2 | Proje 2 |
+    | Öğrenci 3 | Proje 3 |
 
 | YBS Öğrencileri | Proje |
-| --------- | ------- |
+| --- | --- |
 | Öğrenci 1 | Proje 1 |
 | Öğrenci 2 | Proje 2 |
 | Öğrenci 3 | Proje 3 |
 
 Yada  tablo generatorlar var işinizi daha da kolaylaştıran şu linklerden ulaşabilirsiniz:
-- [tablesgenerator](https://www.tablesgenerator.com/markdown_tables)
-- [tableconvert](https://tableconvert.com/)
+
+* [tablesgenerator](https://www.tablesgenerator.com/markdown_tables)
+* [tableconvert](https://tableconvert.com/)
 
 ## 7. Linkler
-```
-<https://omerkurt.dev>
-<okurt16@posta.pau.edu.tr>
-[YBS](https://ybs.pau.edu.tr)
-```
-<https://omerkurt.dev>
 
-<okurt16@posta.pau.edu.tr>
+    <https://omerkurt.dev>
+    <okurt16@posta.pau.edu.tr>
+    [YBS](https://ybs.pau.edu.tr)
+
+[https://omerkurt.dev](https://omerkurt.dev)
+
+[okurt16@posta.pau.edu.tr](mailto:okurt16@posta.pau.edu.tr)
 
 [YBS](https://ybs.pau.edu.tr)
 
 ## 8. Dipnotlar
-Dipnotlat, yazının bütünlüğü bozulmadan referans yada notlar eklememize yarar. Üstünde çıkan numaraya tıklarsanız referansa yönlendirilirsiniz.
 
-Burası dipnottur.[^1].
+Dipnotlar, yazının bütünlüğü bozulmadan referans yada notlar eklememize yarar. Üstünde çıkan numaraya tıklarsanız referansa yönlendirilirsiniz.
 
-[^1]: Referans yada not
+Burası dipnottur.\[^1\].
+
+\[^1\]: Referans yada not
+
+## 9. Fotoğraflar
+
+![](/images/fotograf.jpg)
