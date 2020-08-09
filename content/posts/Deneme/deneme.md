@@ -20,7 +20,7 @@ enable = false
 enable = true
 
 +++
-Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
+![](/images/fotograf.jpg)Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
 <!--more-->
 Merhaba arkadaşlar, Markdown yani `.md` uzantılı belgeleri hiç gördünüz mü? Markdown, internette yazı yazmayı kolaylaştıran belge türü diyebiliriz. Hayatımızda o kadar text editör girdi ki yazıları düzenlemek çile haline geliyor, ama Markdown ise o kadar kolay ki birkaç örnekle göstereyim hemen.
 
@@ -190,14 +190,12 @@ Yada  tablo generatorlar var işinizi daha da kolaylaştıran şu linklerden ula
 
 Dipnotlar, yazının bütünlüğü bozulmadan referans yada notlar eklememize yarar. Üstünde çıkan numaraya tıklarsanız referansa yönlendirilirsiniz.
 
-Burası dipnottur.\[^1\].
+Burası dipnottur.[^1]
 
-\[^1\]: Referans yada not
+[^1]: Referans yada not
 
 ## 9. Fotoğraflar
-
 ```
-![Manzara](images/fotograf.jpg)
+![Manzara](/images/fotograf.jpg)
 ```
-
 ![Manzara](/images/fotograf.jpg)
