@@ -172,3 +172,8 @@ Yada  tablo generatorlar var işinizi daha da kolaylaştıran şu linklerden ula
 [YBS](https://ybs.pau.edu.tr)
 
 ## 8. Dipnotlar
+Dipnotlat, yazının bütünlüğü bozulmadan referans yada notlar eklememize yarar. Üstünde çıkan numaraya tıklarsanız referansa yönlendirilirsiniz.
+
+Burası dipnottur.[^1].
+
+[^1]: Referans yada not
