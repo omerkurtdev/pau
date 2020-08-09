@@ -4,7 +4,6 @@ authorLink = "https://www.omerkurt.dev"
 categories = ["Markdown"]
 date = 2020-08-08T21:00:00Z
 description = "Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim."
-draft = true
 featuredImage = ""
 featuredImagePreview = ""
 hiddenFromHomePage = false
@@ -21,4 +20,5 @@ enable = false
 enable = true
 
 +++
-Merhaba arkadaşlar, Markdown yani `.md` uzantılı belgeleri giç gördünüz mü? Markdown 2004 yılında 
+Merhaba arkadaşlar, Markdown yani `.md` uzantılı belgeleri hiç gördünüz mü? Markdown, internette yazı yazmayı kolaylaştıran belge türü diyebiliriz. Hayatımızda o kadar text editör girdi ki yazıları düzenlemek çile haline geliyor, ama Markdown ise o kadar kolay ki birkaç örnekle göstereyim hemen.
+
