@@ -4,6 +4,7 @@ authorLink = "https://www.omerkurt.dev"
 categories = ["Markdown"]
 date = 2020-08-08T21:00:00Z
 description = "Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim."
+draft = true
 featuredImage = ""
 featuredImagePreview = ""
 hiddenFromHomePage = false
@@ -122,3 +123,19 @@ Kodlar Buraya
 ```Markdown
 Kodlar Buraya
 ```
+
+## 6. Tablo Oluşturmak
+Markdown'da tablo oluşturmak aşırı kolay.
+```
+| YBS | Proje |
+| --------- | ----------- |
+| Öğrenci 1 | Proje 1 |
+| Öğrenci 2 | Proje 2 |
+| Öğrenci 3 | Proje 3 |
+```
+
+| YBS | Proje |
+| --------- | --------|
+| Öğrenci 1 | Proje 1 |
+| Öğrenci 2 | Proje 2 |
+| Öğrenci 3 | Proje 3 |
