@@ -20,7 +20,7 @@ enable = false
 enable = true
 
 +++
-![](/images/fotograf.jpg)Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
+Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
 <!--more-->
 Merhaba arkadaşlar, Markdown yani `.md` uzantılı belgeleri hiç gördünüz mü? Markdown, internette yazı yazmayı kolaylaştıran belge türü diyebiliriz. Hayatımızda o kadar text editör girdi ki yazıları düzenlemek çile haline geliyor, ama Markdown ise o kadar kolay ki birkaç örnekle göstereyim hemen.
 
