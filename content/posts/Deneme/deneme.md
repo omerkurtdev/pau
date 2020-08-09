@@ -39,3 +39,7 @@ Yazdığımızda böyle gözekecek.
 2. Liste 2
 3. Liste 3
 ```
+
+1. Liste 1
+2. Liste 2
+3. Liste 3
