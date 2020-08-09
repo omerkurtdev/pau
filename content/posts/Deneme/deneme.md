@@ -109,4 +109,5 @@ Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
 ```Markdown
 `printf("Merhaba Dünya")`
 ```
+
 `printf("Merhaba Dünya")`
