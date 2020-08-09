@@ -1,0 +1,65 @@
+---
+label: Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: text
+  name: author
+  label: author
+- type: text
+  name: authorLink
+  label: authorLink
+- type: textarea
+  name: description
+  label: description
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: boolean
+  name: hiddenFromHomePage
+  label: hiddenFromHomePage
+- type: boolean
+  name: hiddenFromSearch
+  label: hiddenFromSearch
+- type: text
+  name: featuredImage
+  label: featuredImage
+- type: file
+  name: featuredImagePreview
+  label: featuredImagePreview
+- type: field_group
+  name: toc
+  label: toc
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+- type: field_group
+  name: math
+  label: math
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+- type: boolean
+  name: lightgallery
+  label: lightgallery
+- type: text
+  name: license
+  label: license
+pages:
+- content/posts/Deneme/deneme.md
