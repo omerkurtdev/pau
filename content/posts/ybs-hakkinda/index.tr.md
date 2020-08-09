@@ -17,7 +17,7 @@ categories:
 hiddenFromHomePage: false
 hiddenFromSearch: false
 featuredImage: ''
-featuredImagePreview: ''
+featuredImagePreview: '/images/pamukkaleybs.png'
 toc:
   enable: false
 math:
