@@ -4,6 +4,7 @@ authorLink = "https://www.omerkurt.dev"
 categories = ["Markdown"]
 date = 2020-08-08T21:00:00Z
 description = "Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim."
+draft = true
 featuredImage = ""
 featuredImagePreview = ""
 hiddenFromHomePage = false
