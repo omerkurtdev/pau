@@ -4,7 +4,6 @@ authorLink = ""
 categories = []
 date = ""
 description = ""
-draft = true
 featuredImage = ""
 featuredImagePreview = ""
 hiddenFromHomePage = false
