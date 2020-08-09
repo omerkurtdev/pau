@@ -80,7 +80,7 @@ enableEmoji = true
         pre = "<i class='fas fa-calendar-check'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://www.notion.so/1bf19375b2304517becc414ac0f5c5aa?v=f9c69769b08747f4bd4466243f02efdb"
         title = "Yazı Planı"
         weight = 5
     [languages.tr.params]
