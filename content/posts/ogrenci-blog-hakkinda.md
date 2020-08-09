@@ -23,7 +23,8 @@ enable = false
 Öğrenci Bloğu, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur. Siz de bloğa katkıda bulunmak istiyorsanız, bize Telegram adresimizden ulaşabilirsiniz.
 
 {{< admonition quote >}}
-**Paylaştığın senindir, biriktirdiğin değil!**
+**Paylaştığın senindir, biriktirdiğin değil!**[^1]
 {{< /admonition >}}
+[^1]: https://www.tandfonline.com/doi/full/10.1080/01587919.2020.1775341
 
 Web sitemiz [açık kaynak](https://github.com/ybsci/pau) kodludur ve [Hugo](https://gohugo.io/) tarafından desteklenmektedir, sitemizin her kodunu inceleyebilirsiniz.
