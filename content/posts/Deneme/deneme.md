@@ -202,7 +202,7 @@ Burası dipnottur.[^1]
 
 Evet, bu yazımda sizlere Markdown yazmak için gerekli Markdown sözdizimlerinden bahsettim. Peki Markdown yazmak için hangi editör ideal sorusuna şahsi cevabım: [Joplin](https://joplinapp.org/)
 
-Farklı alternatifler de var mesela [Simplenote](https://simplenote.com/]
+Farklı alternatifler de var mesela [Simplenote](https://simplenote.com/)
 
 ## Kaynaklar
 - [markdownguide](https://www.markdownguide.org/getting-started/)
