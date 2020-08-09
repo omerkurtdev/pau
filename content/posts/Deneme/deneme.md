@@ -120,7 +120,7 @@ Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
 Kodlar Buraya
 ```
 {{< / highlight >}}
-```Markdown
+```
 Kodlar Buraya
 ```
 
