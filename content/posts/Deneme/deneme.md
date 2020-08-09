@@ -115,7 +115,10 @@ Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
 ### Çok satırlı kod
 Çok satırlı kod yazmak için <code>```</code> kullanılır.
 {{< highlight markdown >}}
-```markdown
+```Markdown
 Kodlar Buraya
 ```
 {{< / highlight >}}
+```Markdown
+Kodlar Buraya
+```
