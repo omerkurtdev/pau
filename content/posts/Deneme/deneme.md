@@ -70,3 +70,10 @@ _Italics bir yazı_
 ```
 ~~Üstü çizili yazı~~
 
+## Alıntı Yapma
+Alıntı yapmak için büyüktür(`>`) işaretini kullanmamız yeterli.
+
+```Markdown
+> "Ne Mutlu Türküm Diyene!"
+```
+> "Ne Mutlu Türküm Diyene!"
