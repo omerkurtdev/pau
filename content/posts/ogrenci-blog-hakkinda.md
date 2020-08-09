@@ -20,6 +20,6 @@ enable = false
 enable = false
 
 +++
-Öğrenci Blog, Pamukkale Üniversitesi Yönetim Bilişim Sistemleri öğrencileri tarafından oluşturulmuştur. Bloga katkı verecek olan arkadaşlarımızın hepsi yöneticidir. Bu blogun tek bir misyonu vardır: `Paylaşmak`
+Öğrenci Blog, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur.
 
-Bölümümüz gereği birlik ve takım çalışmasını güçlendirmek, YBS öğrencileri arasındaki iletişimi artırmak için blog yazmak ve çevre edinmek 
+Websitemiz [açık kaynak](https://github.com/ybsci/pau) kodludur, sitemizin her kodunu inceleyebilirsizin.
