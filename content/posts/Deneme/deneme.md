@@ -189,6 +189,11 @@ Yada  tablo generatorlar var işinizi daha da kolaylaştıran şu linklerden ula
 ## 8. Dipnotlar
 
 Dipnotlar, yazının bütünlüğü bozulmadan referans yada notlar eklememize yarar. Üstünde çıkan numaraya tıklarsanız referansa yönlendirilirsiniz.
+```
+Burası dipnottur.[^1]
+
+[^1]: Referans yada not
+```
 
 Burası dipnottur.[^1]
 
