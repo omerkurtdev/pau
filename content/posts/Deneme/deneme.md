@@ -49,3 +49,16 @@ Hangi büyüklükte başlık istiyorsanız başına sadece `#` koymak yeterli.
 ##### h5 Başlık
 ###### h6 Başlık
 ```
+## Yazu Tipleri Gösterimi
+### Bold
+```Markdown
+**Kalın yazılar yazmak için**
+```
+**Kalın yazılar yazmak için**
+
+### Italics
+Italics bir biçimde yazıyı vurgulamak için şöyle yazılmalı:
+```Markdown
+_Italics bir yazı_
+```
+_Italics bir yazı_
