@@ -158,3 +158,10 @@ Markdown'da tablo oluşturmak aşırı kolay.
 Yada  tablo generatorlar var işinizi daha da kolaylaştıran şu linklerden ulaşabilirsiniz:
 - [tablesgenerator](https://www.tablesgenerator.com/markdown_tables)
 - [tableconvert](https://tableconvert.com/)
+
+## 7. Linkler
+```
+<https://omerkurt.dev>
+<okurt16@posta.pau.edu.tr>
+[YBS](https://ybs.pau.edu.tr)
+```
