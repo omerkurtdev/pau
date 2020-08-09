@@ -22,4 +22,6 @@ enable = false
 +++
 Öğrenci Blog, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur.
 
-Websitemiz [açık kaynak](https://github.com/ybsci/pau) kodludur, sitemizin her kodunu inceleyebilirsizin.
+Websitemiz [açık kaynak](https://github.com/ybsci/pau) kodludur ve [Hugo](https://gohugo.io/) tarafından desteklenmektedir, sitemizin her kodunu inceleyebilirsizin.
+
+
