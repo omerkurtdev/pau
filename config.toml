@@ -1,4 +1,4 @@
-baseURL = "https://lucid-bassi-b7e7f1.netlify.app/"
+baseURL = "https://www.pauybs.com"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "tr"
@@ -670,7 +670,7 @@ enableEmoji = true
 [author]
   name = "Tersane İşçileri"
   email = ""
-  link = ""
+  link = "https://github.com/orgs/Tersane-iscileri/"
 
 # Sitemap config
 # 网站地图配置
