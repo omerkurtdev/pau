@@ -62,3 +62,10 @@ Italics bir biçimde yazıyı vurgulamak için şöyle yazılmalı:
 _Italics bir yazı_
 ```
 _Italics bir yazı_
+
+### Üstü çizili yazı(Strikethrough)
+Üstü çizili yazı tipini kullanmak için sigma(`~`) kullanılır.
+```Markdown
+~~Üstü çizili yazı~~
+```
+~~Üstü çizili yazı~~
