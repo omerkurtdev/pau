@@ -14,5 +14,6 @@ description: Açıklama
 hiddenFromHomePage: false
 hiddenFromSearch: false
 lightgallery: false
+featuredImagePreview: images/markdown.png
 ---
 Yazı
