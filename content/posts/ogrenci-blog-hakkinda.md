@@ -27,4 +27,4 @@ enable = false
 **Paylaştığın senindir, biriktirdiğin değil!**
 {{< /admonition >}}
 
-Bloğumuz [açık kaynak](https://github.com/ybsci/pau) kodludur ve [Hugo](https://gohugo.io/) tarafından desteklenmektedir, sitemizin her kodunu inceleyebilirsiniz, ayrıca [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.tr) lisansı altındadır.
+Bloğumuz [açık kaynak](https://github.com/ybsci/pau) kodludur ve [Hugo](https://gohugo.io/) tarafından desteklenmektedir, ayrıca [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.tr) lisansı altındadır. Sitemizin her kodunu inceleyebilirsiniz.
