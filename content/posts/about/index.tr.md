@@ -13,7 +13,6 @@ featuredImage: ""
 title: Öğrenci Blog Hakkında
 subtitle: Hakkımızda
 date: 2020-08-09T21:00:00.000Z
-categories: List [ "Hakkımızda" ]
 tags: []
 description: Hakkımızda
 hiddenFromSearch: false
