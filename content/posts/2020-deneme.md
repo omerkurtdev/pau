@@ -13,7 +13,7 @@ authorLink: omerkurt.dev
 description: Açıklama
 hiddenFromHomePage: false
 hiddenFromSearch: false
-lightgallery: false
+lightgallery: true
 featuredImagePreview: images/markdown.png
 ---
 Yazı
