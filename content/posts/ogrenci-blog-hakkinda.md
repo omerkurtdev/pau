@@ -24,7 +24,8 @@ enable = false
 
 {{< admonition quote >}}
 **Paylaştığın senindir, biriktirdiğin değil![^1]**
-{{< /admonition >}}
 [^1]: https://www.tandfonline.com/doi/full/10.1080/01587919.2020.1775341
+{{< /admonition >}}
+
 
 Web sitemiz [açık kaynak](https://github.com/ybsci/pau) kodludur ve [Hugo](https://gohugo.io/) tarafından desteklenmektedir, sitemizin her kodunu inceleyebilirsiniz.
