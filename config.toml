@@ -277,7 +277,17 @@ enableEmoji = true
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = ''
+    custom = '<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>'
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = true
