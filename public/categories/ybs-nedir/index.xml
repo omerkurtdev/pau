@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>YBS Nedir - Kategori - YBS BLOG</title>
-        <link>https://lucid-bassi-b7e7f1.netlify.app/categories/ybs-nedir/</link>
-        <description>YBS Nedir - Kategori - YBS BLOG</description>
-        <generator>Hugo -- gohugo.io</generator><language>tr</language><copyright>Bu çalışma Creative Commons Attribution-NonCommercial 4.0 International License ile lisanslanmıştır.</copyright><lastBuildDate>Sat, 07 Jul 2018 21:00:00 &#43;0000</lastBuildDate><atom:link href="https://lucid-bassi-b7e7f1.netlify.app/categories/ybs-nedir/" rel="self" type="application/rss+xml" /><item>
+        <title>YBS Nedir - Kategori - Öğrenci Blog</title>
+        <link>https://www.pauybs.com/categories/ybs-nedir/</link>
+        <description>YBS Nedir - Kategori - Öğrenci Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>tr</language><copyright>Bu çalışma Creative Commons Attribution-NonCommercial 4.0 International License ile lisanslanmıştır.</copyright><lastBuildDate>Sat, 07 Jul 2018 21:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.pauybs.com/categories/ybs-nedir/" rel="self" type="application/rss+xml" /><item>
     <title>Ayşegül Çoban&#39;nın Yatay Geçiş Tecrübesi ve YBS</title>
-    <link>https://lucid-bassi-b7e7f1.netlify.app/yatay-gecis/</link>
+    <link>https://www.pauybs.com/yatay-gecis/</link>
     <pubDate>Sat, 07 Jul 2018 21:00:00 &#43;0000</pubDate>
     <author>Yazar</author>
-    <guid>https://lucid-bassi-b7e7f1.netlify.app/yatay-gecis/</guid>
-    <description><![CDATA[<p>Ayşegül bu yazıda bizlere yaşamış olduğu yatay geçiş tecrübesini ve YBS hakkında bazı soruları yanıtlayacak.</p>]]></description>
+    <guid>https://www.pauybs.com/yatay-gecis/</guid>
+    <description><![CDATA[<p>Ayşegül bu yazıda bizlere yatay geçiş tecrübesini ve YBS hakkında bazı soruları yanıtlayacak.</p>]]></description>
 </item><item>
     <title>Pamukkale Üniversitesi Yönetim Bilişim Sistemleri Tanıtımı | ÜnilidenÖğren (2018)</title>
-    <link>https://lucid-bassi-b7e7f1.netlify.app/ybs-hakkinda/</link>
+    <link>https://www.pauybs.com/ybs-nedir/</link>
     <pubDate>Sat, 07 Jul 2018 21:00:00 &#43;0000</pubDate>
     <author>Yazar</author>
-    <guid>https://lucid-bassi-b7e7f1.netlify.app/ybs-hakkinda/</guid>
+    <guid>https://www.pauybs.com/ybs-nedir/</guid>
     <description><![CDATA[<p>Halime Üstündağ&rsquo;ın 2018 yılında çekmiş olduğu video aşağıda, bakalım YBS hakkında neler demiş?</p>]]></description>
 </item></channel>
 </rss>

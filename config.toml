@@ -11,7 +11,7 @@ themesDir = "themes"
 
 # website title
 # 网站标题
-title = "YBS BLOG"
+title = "Öğrenci Blog"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -260,7 +260,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "ÖĞRENCİ BLOG"
+      name = "Öğrenci Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fas fa-terminal'></i>"
@@ -269,7 +269,7 @@ enableEmoji = true
       post = ""
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
-      typeit = false
+      typeit = true
 
   # Footer config
   # 页面底部信息配置
@@ -289,7 +289,7 @@ enableEmoji = true
     author = true
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2020
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -679,6 +679,7 @@ enableEmoji = true
   name = "Tersane İşçileri"
   email = ""
   link = "https://github.com/orgs/Tersane-iscileri/"
+
 
 # Sitemap config
 # 网站地图配置

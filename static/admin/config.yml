@@ -15,7 +15,7 @@ collections:
    fields:
       - {label: "Başlık", name: "title", widget: "string", required: true}
       - {label: "Altbaşlık", name: "subtitle", widget: "string", required: false}
-      - {label: "Yayınlama Tarihi", name: "date", widget: "date"}
+      - {label: "Yayınlama Tarihi", name: "date", widget: "datetime", dateFormat: "DD.MM.YY", timeFormat: "mm:HH"}
       - {label: "Güncelleme Tarihi", name: "lastmod", widget: "date"}
       - {label: "Taslak", name: "draft", widget: "boolean", default: true}
       - {label: "Kategoriler", name: "categories", widget: "list", required: false}

@@ -1,0 +1,51 @@
+backend: 
+  name: git-gateway
+  branch: master
+
+
+media_folder: "static/images"
+public_folder: "images"
+
+collections:
+ - name: "Postlar"
+   label: "Postlar"
+   folder: "content/posts/"
+   create: true
+   slug: "{{year}}-{{slug}}"
+   fields:
+      - {label: "Başlık", name: "title", widget: "string", required: true}
+      - {label: "Altbaşlık", name: "subtitle", widget: "string", required: false}
+      - {label: "Yayınlama Tarihi", name: "date", widget: "date"}
+      - {label: "Güncelleme Tarihi", name: "lastmod", widget: "date"}
+      - {label: "Taslak", name: "draft", widget: "boolean", default: true}
+      - {label: "Kategoriler", name: "categories", widget: "list", required: false}
+      - {label: "Etiketler", name: "tags", widget: "list", required: false}
+      - {label: "Yazar", name: "author", widget: "string", required: true}
+      - {label: "Yazar Linki", name: "authorLink", widget: "string", required: false}
+      - {label: "Açıklama", name: "description", widget: "string", required: true}
+      - {label: "Sayfada Gizle", name: "hiddenFromHomePage", widget: "boolean", default: false}
+      - {label: "Aramada Gizle", name: "hiddenFromSearch", widget: "boolean", default: false}
+      - {label: "Galeri", name: "lightgallery", widget: "boolean", default: false}
+      - {label: "Blog Fotoğrafı(Preview)", name: "featuredImagePreview", widget: image, required: false}
+      - {label: "Editör", name: "body", widget: "markdown"}
+ - name: "Hakkımızda"
+   label: "about"
+   folder: "content/posts/about"
+   create: false
+   slug: "{{year}}-{{slug}}"
+   fields:
+      - {label: "Başlık", name: "title", widget: "string", required: true}
+      - {label: "Altbaşlık", name: "subtitle", widget: "string", required: true}
+      - {label: "Yayınlama Tarihi", name: "date", widget: "date"}
+      - {label: "Güncelleme Tarihi", name: "lastmod", widget: "date"}
+      - {label: "Taslak", name: "draft", widget: "boolean", default: true}
+      - {label: "Kategoriler", name: "categories", widget: "list", required: false}
+      - {label: "Etiketler", name: "tags", widget: "list", required: false}
+      - {label: "Yazar", name: "author", widget: "string", required: true}
+      - {label: "Yazar Linki", name: "authorLink", widget: "string", required: false}
+      - {label: "Açıklama", name: "description", widget: "string", required: true}
+      - {label: "Sayfada Gizle", name: "hiddenFromHomePage", widget: "boolean", default: false}
+      - {label: "Aramada Gizle", name: "hiddenFromSearch", widget: "boolean", default: false}
+      - {label: "Galeri", name: "lightgallery", widget: "boolean", default: false}
+      - {label: "Blog Fotoğrafı(Preview)", name: "featuredImagePreview", widget: image, required: false}
+      - {label: "Editör", name: "body", widget: "markdown"}

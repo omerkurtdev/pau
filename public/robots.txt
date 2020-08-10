@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://lucid-bassi-b7e7f1.netlify.app/sitemap.xml
+Sitemap: https://www.pauybs.com/sitemap.xml

@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown - Etiket - Öğrenci Blog</title>
+        <link>https://www.pauybs.com/tags/markdown/</link>
+        <description>Markdown - Etiket - Öğrenci Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>tr</language><copyright>Bu çalışma Creative Commons Attribution-NonCommercial 4.0 International License ile lisanslanmıştır.</copyright><lastBuildDate>Fri, 07 Aug 2020 21:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.pauybs.com/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Markdown ile Blog Yazmak</title>
+    <link>https://www.pauybs.com/markdown-blog/</link>
+    <pubDate>Fri, 07 Aug 2020 21:00:00 &#43;0000</pubDate>
+    <author>Yazar</author>
+    <guid>https://www.pauybs.com/markdown-blog/</guid>
+    <description><![CDATA[<p>Bu yazımda sizlere Markdown&rsquo;nın ne olduğundan bahsedeceğim.</p>]]></description>
+</item></channel>
+</rss>
