@@ -1,0 +1,17 @@
+---
+title: Deneme
+subtitle: Deneme
+date: 2020-08-10T18:10:34.366Z
+draft: false
+categories:
+  - Kategori
+tags:
+  - Etiket
+author: Ömer
+authorLink: omerkurt.dev
+description: Açıklama
+hiddenFromHomePage: false
+hiddenFromSearch: false
+lightgallery: false
+---
+Yazı
