@@ -7,9 +7,9 @@ media_folder: "static/images"
 public_folder: "images"
 
 collections:
- - name: "posts"
-   label: "Postlar"
-   folder: "content/posts/"
+ - name: "Postlar"
+   label: "posts"
+   folder: "content/posts"
    create: true
    slug: "{{year}}-{{slug}}"
    fields:
