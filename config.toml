@@ -570,7 +570,7 @@ enableEmoji = true
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "63HX7gb_JrwWIq2mWm14JkHnlzAYiTjtG7cubCP4vTE"
     bing = ""
     yandex = ""
     pinterest = ""
@@ -581,10 +581,10 @@ enableEmoji = true
   [params.seo]
     # image URL
     # 图片 URL
-    image = "/images/Apple-Devices-Preview.png"
+    image = ""
     # thumbnail URL
     # 缩略图 URL
-    thumbnailUrl = "/images/screenshot.png"
+    thumbnailUrl = ""
 
   # Analytics config
   # 网站分析配置
