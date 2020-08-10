@@ -1,0 +1,170 @@
+[
+    {
+        "license": "",
+        "uri": "about",
+        "content": "renci Blo u  birbirlerine yard m etmek i in bir araya gelen bili imcilerden olu an bir topluluktur  Siz de blo a katk da bulunmak istiyorsan z  yukar da men de bulunan Edit r Giri e t klayarak orda  ye olup hemen bir blog yaz s  olu turabilirsiniz  Web site kullan m  yada blog yaz m  hakk nda bilgi almak i in Telegram adresimizden ula abilirsiniz       Payla t   n senindir  biriktirdi in de il       Blo umuz a  k kaynak kodludur ve Hugo taraf ndan desteklenmektedir  ayr ca CC BY NC 4 0 lisans  alt ndad r  Sitemizin kodunu inceleyebilirsiniz",
+        "objectID": "about",
+        "draft": false,
+        "authorLink": "",
+        "hiddenFromHomePage": false,
+        "toc": {
+            "enable": false
+        },
+        "math": {
+            "enable": false
+        },
+        "author": "YBS Öğrencileri",
+        "lastmod": "",
+        "featuredImage": "",
+        "title": "Öğrenci Blog Hakkında",
+        "subtitle": "Hakkımızda",
+        "date": "2020-08-09T21:00:00.000Z",
+        "tags": [],
+        "description": "Hakkımızda",
+        "hiddenFromSearch": false,
+        "lightgallery": false,
+        "featuredImagePreview": ""
+    },
+    {
+        "title": "Deneme",
+        "uri": "posts/2020-deneme",
+        "content": "Deneme",
+        "objectID": "posts/2020-deneme",
+        "subtitle": "Deneme",
+        "date": "2020-08-10T23:06:26.626Z",
+        "lastmod": "2020-08-10T23:00:17.013Z",
+        "draft": false,
+        "categories": [
+            "Deneme"
+        ],
+        "tags": [
+            "Deneme"
+        ],
+        "author": "Deneme",
+        "authorLink": "deneme",
+        "description": "Deneme",
+        "hiddenFromHomePage": false,
+        "hiddenFromSearch": false,
+        "lightgallery": false
+    },
+    {
+        "license": "",
+        "uri": "posts/about",
+        "content": "renci Blo u  birbirlerine yard m etmek i in bir araya gelen bili imcilerden olu an bir topluluktur  Siz de blo a katk da bulunmak istiyorsan z  yukar da men de bulunan Edit r Giri e t klayarak orda  ye olup hemen bir blog yaz s  olu turabilirsiniz  Web site kullan m  yada blog yaz m  hakk nda bilgi almak i in Telegram adresimizden ula abilirsiniz       Payla t   n senindir  biriktirdi in de il       Blo umuz a  k kaynak kodludur ve Hugo taraf ndan desteklenmektedir  ayr ca CC BY NC 4 0 lisans  alt ndad r  Sitemizin kodunu inceleyebilirsiniz",
+        "objectID": "posts/about",
+        "draft": false,
+        "authorLink": "",
+        "hiddenFromHomePage": false,
+        "toc": {
+            "enable": false
+        },
+        "math": {
+            "enable": false
+        },
+        "author": "YBS Öğrencileri",
+        "lastmod": "",
+        "featuredImage": "",
+        "title": "Öğrenci Blog Hakkında",
+        "subtitle": "Hakkımızda",
+        "date": "2020-08-09T21:00:00.000Z",
+        "tags": [],
+        "description": "Hakkımızda",
+        "hiddenFromSearch": false,
+        "lightgallery": false,
+        "featuredImagePreview": ""
+    },
+    {
+        "license": "",
+        "uri": "posts/Markdown-blog",
+        "content": "Bu yaz mda sizlere Markdown n n ne oldu undan bahsedece im  Merhaba arkada lar  Markdown yani  md uzant l  belgeleri hi  g rd n z m   Markdown  internette yaz  yazmay  kolayla t ran belge t r  diyebiliriz  Hayat m zda o kadar text edit r girdi ki yaz lar  d zenlemek  ile haline geliyor  ama Markdown ise o kadar kolay ki birka   rnekle g stereyim hemen  1  Liste G sterimi Liste 1 Liste 2 Liste 3 Yazd   m zda b yle g zekecek  Liste 1 Liste 2 Liste 3 Liste 1 Liste 2 Liste 3 Liste 4 Liste 5 Liste 6 Liste 1 Liste 2 Liste 3 Liste 4 Liste 5 Liste 6  x  Mailini kontrol et     Websiteyi g ncelle     Mail   x   Mailini kontrol et       Websiteyi g ncelle       Mail 2  Ba l k G sterimi Hangi b y kl kte ba l k istiyorsan z ba  na sadece   koymak yeterli  h2 Ba l k h3 Ba l k h4 Ba l k h5 Ba l k h6 Ba l k 3  Yaz  Tipleri G sterimi Bold Kal n yaz lar yazmak i in Kal n yaz lar yazmak i in Italics Italics bir bi imde yaz y  vurgulamak i in   yle yaz lmal   Italics bir yaz  Italics bir yaz   st   izili yaz  Strikethrough   st   izili yaz  tipini kullanmak i in sigma    kullan l r   st   izili yaz   st   izili yaz  4  Al nt  Yapma Al nt  yapmak i in b y kt r    i aretini kullanmam z yeterli     Ne Mutlu T rk m Diyene      Ne Mutlu T rk m Diyene   5  Kod Tek sat r kod printf  Merhaba D nya   printf  Merhaba D nya    ok sat rl  kod  ok sat rl  kod yazmak i in      kullan l r       First Heading first paragraph       First Heading first paragraph  6  Tablo Olu turmak Markdown da tablo olu turmak a  r  kolay    YBS   rencileri   Proje                               renci 1   Proje 1       renci 2   Proje 2       renci 3   Proje 3     YBS   rencileri   Proje                     renci 1   Proje 1       renci 2   Proje 2       renci 3   Proje 3   Yada tablo generatorlar var i inizi daha da kolayla t ran  u linklerden ula abilirsiniz  tablesgenerator tableconvert 7  Linkler YBS https   omerkurt dev okurt16 posta pau edu tr YBS 8  Dipnotlar Dipnotlar  yaz n n b t nl    bozulmadan referans yada notlar eklememize yarar   st nde   kan numaraya t klarsan z referansa y nlendirilirsiniz  Buras  dipnottur    Referans yada not Buras  dipnottur    Referans yada not 9  Foto raflar Evet  bu yaz mda sizlere Markdown yazmak i in gerekli Markdown s zdizimlerinden bahsettim  Peki Markdown yazmak i in hangi edit r ideal sorusuna  ahsi cevab m  Joplin Farkl  alternatifler de var mesela Simplenote Merak edenleriniz varsa bu postu nas l yazd   m   altta bulunan Markdown Oku ya t klayabilirler  Kaynaklar markdownguide markdownguide",
+        "objectID": "posts/Markdown-blog",
+        "draft": false,
+        "authorLink": "https://www.omerkurt.dev",
+        "hiddenFromHomePage": false,
+        "toc": {
+            "enable": true
+        },
+        "math": {
+            "enable": false
+        },
+        "lastmod": "2020-08-07T21:00:00.000Z",
+        "author": "Ömer Kurt",
+        "featuredImage": "",
+        "title": "Markdown ile Blog Yazmak",
+        "subtitle": "Markdown ile Blog Yazmak",
+        "date": "2020-08-07T21:00:00.000Z",
+        "categories": [
+            "Markdown"
+        ],
+        "tags": [
+            "Markdown"
+        ],
+        "description": "Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.",
+        "hiddenFromSearch": false,
+        "lightgallery": true,
+        "featuredImagePreview": "/images/markdown.png"
+    },
+    {
+        "title": "Ayşegül Çoban'nın Yatay Geçiş Tecrübesi ve YBS",
+        "uri": "posts/yatay-gecis",
+        "content": "Ay eg l bu yaz da bizlere yatay ge i  tecr besini ve YBS hakk nda baz  sorular  yan tlayacak  Merhaba arkada lar  ben Pamukkale  niversitesi Y netim Bili im Sistemleri b l m  4  S n f   rencisi Ay eg l  oban  Ayn  zamanda yatay ge i    rencisiyim   niversite tercihleri  ncesi bu yaz mda Pamukkale  niversitesi YBS b l m n   yatay ge i  deneyimlerimi ve akl n za tak lan sorular n cevaplar n  bulacaks n z  Yani sizin i in kapsaml  bir yaz  olaca  n  d   n yorum  K saca b l mden bahsetmek gerekirse bilgisayar m hendisli iyle i letmenin entegre edilmi  halidir  B l m n as l amac  bilgi i lemi koordine edecek  i letmeye uygun yaz l m projelerini ve i  s re lerini y neten uygun nitelikli bireyler yeti tirmek diyebilirim  Fakat bu salt bu alanlarda  al  acaks n z anlam na gelmiyor  B l m n iki farkl  disiplini b nyesinde bulundurmas  size  ok farkl  alanlarda  al  man za ve uzmanla man za olanak sa l yor  Mezun Olunca Ne    Yapaca  m  Bu yetenekleriniz ve  niversite s resince kendinizi ne kadar geli tirdi inize ba l d r  Sistem Analisti  programc   uzman   i  analisti     zekas  uzman   proje y neticisi  insan kaynaklar  uzman   akademisyen vb  gibi bir ok unvanlarda g rev yapar  Bence YBSnin i  skalas n n geni  olmas  avantaj oldu u kadar ayn  zamanda dezavantaj da   nk   o u YBS   rencisi halen dahi nerede ne i  yapaca  n  bilmiyor se enekler aras nda kayboluyorlar bu konuda Pamukkale  niversitesinin zorunlu staj  size sekt rde kendi alan z  bulman zda  ok yard mc  olacak  Peki B l m n Dersleri  Zorluk Derecesi Ve Staj Olanaklar  Nas l  YBS b l m    BF fak ltesinde ve fak ltenin en g zde b l m  diyebilirim    letme dersleriyle bilgisayar m hendisli i derslerini ortakla a al yorsunuz   lk sene daha  ok i letme dersleri ve y netim bili im sistemlerine giri   programlamaya giri  gibi b l me giri  dersleri var   lk sene sizi zorlayacak tek ders programlamaya giri  onu da biraz daha  al  arak halledebilirsiniz di er seneler bili im dersleri say s  art yor  Dersler a  r  zor olmasa da proje  devleriyle hocalar m z biraz zorluyor   yle ki baz  derslere vize finale girmiyorsunuz yapt   n z proje  devleri ve raporlar sizin vize ve final notunuz oluyor  Baz  dersler vize  final  proje olarak notlar hesaplan yor   zellikle 3  ve 4  Sene bolca proje  devlerine kendinizi haz rlay n  4  Sene buna lisans tezi de ekleniyor  Baz  se meli dersler zorunlu derslerden daha zor ve se meli ders se enekleri olduk a fazla ilginize ve uzmanla mak istedi iniz alana g re istedi iniz dersi se ebilirsiniz  Hocalar m z kendi alan m z  bulmam z ve uzmanla mam z konusunda bizi ger ekten  ok destekliyor ve zorluyorlar   zellikle B l m Ba kan m z Prof Dr  Sel uk Burak Ha  lo lu kendimizi geli tirmemiz ve inovatif d   nmemiz i in bizi zorluyor  Tabi bu zorlamalar bizi geli tirmek i in  Akl m za tak lan hemen hemen t m sorulara yan t bulmam z  sa l yor  Uygun projelerde  teknokentte  bilgi i lemde ya da  niversitede d   nda  al  abilece imiz uygun i  oldu unda  al  mam z i in bizi destekliyor ve y nlendiriyor yani kendinizi geli tirebilmeniz i in bir ok f rsat var  Staj konusuna gelirsek Pamukkale  niversitesinin en b y k avantajlar ndan biri de YBSnin zorunlu staj  olmas    BFnin tek zorunlu staj  olan b l m   Buradan b l me ne kadar  nem verdikleri anla  l yordur  Benim de yatay ge i  yapmamdaki en b y k etkenlerden   nk  YBS  zel sekt r odakl  bir b l m mezun olunca size sorulacak ilk sorulardan biri tecr be  Staj   al  t   n z  irkette sekt rde ilgi alan z  bulman z ve tecr be kazanman z i in  ok g zel bir olanak  Staj yeri bulamad   n z takdirde hocalar m z bizi y nlendiriyor  Teknokentteki  irketlerde ya da bilgi i lemde staj yapma olanaklar m z var   niversitede Kariyer Olanaklar    sterseniz YBS den bilgisayar m hendisli i b l m ne yandal yapabilirsiniz  Akademik kariyer d   nenler i in hen z netle mi  de il ama bu seneki mezuniyet yeme inde B l m Ba kan  Prof Dr  Sel uk Burak Ha  lo lu bu sene y ksek lisans program  a  labilece i m jdesini verdi ben de merakla bekliyorum  Pamukkale  niversitesi Aktiviteleri ve Konaklama Olanaklar  Nas l  Pamukkale  niversitesinin bulundu u Denizli orta  l ekte sakin bir  ehir  Konum olarak  ok iyi Mu la   zmir  Ayd n gibi  ehirlere  ok yak n ve isterseniz trenle makul fiyatlarda seyahat edebiliyorsunuz  Kamp s  evresi  ok hareketli oluyor vakit ge irebilece iniz bir ok kafe var   niversitenin aktivitelerine gelirsek haftada bir ok etkinlik oluyor  Bu da bize mail yoluyla duyuruluyor  Hemen hemen g n kat labilece iniz g n ortas  konferanslar  oluyor en g zeli de hafta makul fiyatlarla tiyatroya gidebiliyor olmam z  Belirli zamanlarda d zenlenen tiyatro  enliklerine ve konserlere gidebilirsiniz   niversitede bir ok topluluk var bunlara  ye olabilir d zenledikleri etkinliklere  gezilere ve konferanslara kat labilirsiniz  Y netim Bili im Sistemlerinde aktif olmak isterseniz benim de y netim kurulunda bulundu um Y netim Bili im Toplulu una  ye olabilir d zenledi imiz etkinlere kat labilirsiniz  Bu toplulukta tan  ma toplant lar   konferanslara geziler ve derslerinize yard mc  olabilmek amac yla proje ve programlama e itimleri ver",
+        "objectID": "posts/yatay-gecis",
+        "subtitle": "Ayşegül Çoban'nın Yatay Geçiş Tecrübesi ve YBS",
+        "date": "2018-07-07T21:00:00.000Z",
+        "lastmod": "2020-08-08T21:00:00.000Z",
+        "author": "Aşegül Çoban",
+        "authorLink": "https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-%C3%A7oban-b134b7140/",
+        "description": "Ayşegül bu yazıda bizlere yaşamış olduğu yatay geçiş tecrübesini ve YBS hakkında bazı soruları yanıtlayacak.",
+        "tags": [
+            "PAU",
+            "YBS"
+        ],
+        "categories": [
+            "YBS Nedir"
+        ],
+        "hiddenFromHomePage": false,
+        "hiddenFromSearch": false,
+        "featuredImage": "",
+        "featuredImagePreview": "/images/pamukkaleybs.png",
+        "toc": {
+            "enable": true
+        },
+        "math": {
+            "enable": false
+        },
+        "lightgallery": true,
+        "license": ""
+    },
+    {
+        "title": "Pamukkale Üniversitesi Yönetim Bilişim Sistemleri Tanıtımı | ÜnilidenÖğren (2018)",
+        "uri": "posts/ybs-nedir",
+        "content": "Halime  st nda   n 2018 y l nda  ekmi  oldu u video a a  da  bakal m YBS hakk nda neler demi",
+        "objectID": "posts/ybs-nedir",
+        "subtitle": "Pamukkale Üniversitesi Yönetim Bilişim Sistemleri Tanıtımı | ÜnilidenÖğren (2018)",
+        "date": "2018-07-07T21:00:00.000Z",
+        "lastmod": "2020-08-08T21:00:00.000Z",
+        "draft": false,
+        "author": "Halime Üstündağ",
+        "authorLink": "https://www.linkedin.com/in/halimeustundag",
+        "description": "Halime'nin ağzından Pamukkale Yönetim Bilişim Sistemleri Bölümü",
+        "tags": [
+            "PAU",
+            "YBS"
+        ],
+        "categories": [
+            "YBS Nedir"
+        ],
+        "hiddenFromHomePage": false,
+        "hiddenFromSearch": false,
+        "featuredImage": "",
+        "featuredImagePreview": "/images/pamukkaleybs.png",
+        "toc": {
+            "enable": false
+        },
+        "math": {
+            "enable": false
+        },
+        "lightgallery": true,
+        "license": ""
+    }
+]

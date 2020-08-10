@@ -114,7 +114,7 @@ enableEmoji = true
       [languages.tr.params.search]
         enable = true
         # type of search engine ("lunr", "algolia")
-        type = "lunr"
+        type = "algolia"
         # max index length of the chunked content
         contentLength = 4000
         # placeholder of the search bar
@@ -128,9 +128,9 @@ enableEmoji = true
         # whether to use the absolute URL based on the baseURL in search index
         absoluteURL = false
         [languages.tr.params.search.algolia]
-          index = "index.tr"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          index = "ybsblog"
+          appID = "YTFJJJRMLO"
+          searchKey = "a1df6931c6b3cb54df8585ec1adae087"
       # Home page config
       [languages.tr.params.home]
         # amount of RSS pages
