@@ -14,8 +14,7 @@ title: Markdown ile Blog Yazmak
 subtitle: Markdown ile Blog Yazmak
 date: 2020-08-08T21:00:00.000Z
 tags:
-  - Markdown
-  - Deneme
+  - Markdown Deneme
 lightgallery: true
 featuredImagePreview: /images/markdown.png
 categories:
