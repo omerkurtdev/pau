@@ -8,14 +8,15 @@ public_folder: "images"
 
 collections:
  - name: "Postlar"
-   label: "posts"
+   label: "Postlar"
    folder: "content/posts/"
    create: true
    slug: "{{year}}-{{slug}}"
    fields:
       - {label: "Başlık", name: "title", widget: "string", required: true}
-      - {label: "Altbaşlık", name: "subtitle", widget: "string", required: true}
+      - {label: "Altbaşlık", name: "subtitle", widget: "string", required: false}
       - {label: "Yayınlama Tarihi", name: "date", widget: "date"}
+      - {label: "Güncelleme Tarihi", name: "lastmod", widget: "date"}
       - {label: "Taslak", name: "draft", widget: "boolean", default: true}
       - {label: "Kategoriler", name: "categories", widget: "list", required: false}
       - {label: "Etiketler", name: "tags", widget: "list", required: false}
@@ -36,7 +37,9 @@ collections:
       - {label: "Başlık", name: "title", widget: "string", required: true}
       - {label: "Altbaşlık", name: "subtitle", widget: "string", required: true}
       - {label: "Yayınlama Tarihi", name: "date", widget: "date"}
+      - {label: "Güncelleme Tarihi", name: "lastmod", widget: "date"}
       - {label: "Taslak", name: "draft", widget: "boolean", default: true}
+      - {label: "Kategoriler", name: "categories", widget: "list", required: false}
       - {label: "Etiketler", name: "tags", widget: "list", required: false}
       - {label: "Yazar", name: "author", widget: "string", required: true}
       - {label: "Yazar Linki", name: "authorLink", widget: "string", required: false}
