@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+   name: git-gateway
+   branch: master
 
 
 media_folder: "static/images"
@@ -24,7 +24,3 @@ public_folder: "images"
         - {label: "Hidden From Page", name: "hiddenFromHomePage", widget: "boolean", default: false}
         - {label: "Hidden From Search", name: "hiddenFromSearch", widget: "boolean", default: false}
         - {label: "Light Gallery", name: "lightgallery", widget: "boolean", default: false}
-        
-
-	
-
