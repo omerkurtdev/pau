@@ -17,6 +17,7 @@ collections:
       - {label: "Altbaşlık", name: "subtitle", widget: "string", required: true}
       - {label: "Yayınlama Tarihi", name: "date", widget: "date"}
       - {label: "Taslak", name: "draft", widget: "boolean", default: true}
+      - {label: "Kategoriler", name: "categories", widget: "list", required: false}
       - {label: "Etiketler", name: "tags", widget: "list", required: false}
       - {label: "Yazar", name: "author", widget: "string", required: true}
       - {label: "Yazar Linki", name: "authorLink", widget: "string", required: false}
