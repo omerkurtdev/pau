@@ -7,7 +7,7 @@ media_folder: "static/images"
 public_folder: "images"
 
 collections:
- - name: "Postlar"
+ - name: "posts"
    label: "Postlar"
    folder: "content/posts/"
    create: true
