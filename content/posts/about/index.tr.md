@@ -1,27 +1,26 @@
-+++
-author = "YBS Öğrencileri"
-authorLink = ""
-categories = []
-date = 2020-08-09T21:00:00Z
-description = ""
-featuredImage = ""
-featuredImagePreview = ""
-hiddenFromHomePage = false
-hiddenFromSearch = false
-lastmod = ""
-license = ""
-lightgallery = false
-subtitle = ""
-tags = []
-title = "Öğrenci Blog Hakkında"
-[math]
-enable = false
-[toc]
-enable = false
-
-+++
-Öğrenci Bloğu, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur. Siz de bloğa katkıda bulunmak istiyorsanız, bize Telegram adresimizden ulaşabilirsiniz.
-
+---
+license: ""
+draft: false
+authorLink: ""
+hiddenFromHomePage: false
+toc:
+  enable: false
+math:
+  enable: false
+author: YBS Öğrencileri
+lastmod: ""
+featuredImage: ""
+title: Öğrenci Blog Hakkında
+subtitle: Hakkımızda
+date: 2020-08-09T21:00:00.000Z
+categories: List [""]
+tags: []
+description: Hakkımızda
+hiddenFromSearch: false
+lightgallery: false
+featuredImagePreview: ""
+---
+Öğrenci Bloğu, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur. Siz de bloğa katkıda bulunmak istiyorsanız, yukarıda menüde bulunan `Editör Giriş`e tıklayarak orda üye olup hemen bir blog yazısı oluşturabilirsiniz.
 
 {{< admonition quote >}}
 **Paylaştığın senindir, biriktirdiğin değil!**
