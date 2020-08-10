@@ -7,20 +7,20 @@ toc:
   enable: true
 math:
   enable: false
+lastmod: 2020-08-07T21:00:00.000Z
 author: Ömer Kurt
-lastmod: ""
 featuredImage: ""
 title: Markdown ile Blog Yazmak
 subtitle: Markdown ile Blog Yazmak
-date: 2020-08-08T21:00:00.000Z
-tags:
-  - Markdown Deneme
-lightgallery: true
-featuredImagePreview: /images/markdown.png
+date: 2020-08-07T21:00:00.000Z
 categories:
+  - Markdown
+tags:
   - Markdown
 description: Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
 hiddenFromSearch: false
+lightgallery: true
+featuredImagePreview: /images/markdown.png
 ---
 Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
 <!--more-->
