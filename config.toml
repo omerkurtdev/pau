@@ -75,6 +75,14 @@ enableEmoji = true
         url = "/about/"
         title = ""
         weight = 4
+       [[languages.tr.menu.main]]
+        identifier = ""
+        pre = ""
+        post = ""
+        name = "Editör Giriş"
+        url = "/admin/"
+        title = ""
+        weight = 5 
       [[languages.tr.menu.main]]
         identifier = "liste"
         pre = "<i class='fas fa-calendar-check'></i>"
@@ -82,7 +90,7 @@ enableEmoji = true
         name = ""
         url = "https://www.notion.so/1bf19375b2304517becc414ac0f5c5aa?v=f9c69769b08747f4bd4466243f02efdb"
         title = "Yazı Planı"
-        weight = 5
+        weight = 6
     [languages.tr.params]
       # site description
       description = "Pamukkale Üniversitesi Yönetim Bilişim Sistemleri blog sayfası"
