@@ -6,24 +6,24 @@ backend:
 media_folder: "static/images"
 public_folder: "images"
 
-  collections:
-    - name: "Postlar"
-      label: "Postlar"
-      folder: "content/posts"
-      create: true
-      slug: "{{year}}-{{slug}}"
-      fields:
-        - {label: "Title", name: "title", widget: "string", required: true}
-        - {label: "Subtitle", name: "subtitle", widget: "string", required: true}
-        - {label: "Publish Date", name: "date", widget: "date"}
-        - {label: "Draft", name: "draft", widget: "boolean", default: true}
-        - {label: "Categories", name: "categories", widget: "string", required: true}
-        - {label: "Tags", name: "tags", widget: "list", required: false}
-        - {label: "Author", name: "author", widget: "string", required: true}
-        - {label: "Author Link", name: "authorLink", widget: "string", required: false}
-        - {label: "Description", name: "description", widget: "string", required: true}
-        - {label: "Hidden From Page", name: "hiddenFromHomePage", widget: "boolean", default: false}
-        - {label: "Hidden From Search", name: "hiddenFromSearch", widget: "boolean", default: false}
-        - {label: "Light Gallery", name: "lightgallery", widget: "boolean", default: false}
-        - {label: "Featured Image Preview", name: "featuredImagePreview", widget: image, required: false}
-        - {label: "Body", name: "body", widget: "markdown"}
+collections:
+ - name: "Postlar"
+   label: "Postlar"
+   folder: "content/posts"
+   create: true
+   slug: "{{year}}-{{slug}}"
+   fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: true}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Categories", name: "categories", widget: "string", required: true}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Author", name: "author", widget: "string", required: true}
+      - {label: "Author Link", name: "authorLink", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "string", required: true}
+      - {label: "Hidden From Page", name: "hiddenFromHomePage", widget: "boolean", default: false}
+      - {label: "Hidden From Search", name: "hiddenFromSearch", widget: "boolean", default: false}
+      - {label: "Light Gallery", name: "lightgallery", widget: "boolean", default: false}
+      - {label: "Featured Image Preview", name: "featuredImagePreview", widget: image, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
