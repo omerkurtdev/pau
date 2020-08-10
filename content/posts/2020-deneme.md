@@ -1,7 +1,8 @@
 ---
-title: Deneme
+title: Deneme1
 subtitle: Deneme
 date: 2020-08-10T18:10:34.366Z
+lastmod: 2020-08-10T18:16:34.656Z
 draft: false
 categories:
   - Kategori
