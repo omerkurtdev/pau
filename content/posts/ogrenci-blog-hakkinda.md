@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "YBS Öğrencileri"
 authorLink = ""
 categories = []
 date = 2020-08-09T21:00:00Z
@@ -22,9 +22,9 @@ enable = false
 +++
 Öğrenci Bloğu, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur. Siz de bloğa katkıda bulunmak istiyorsanız, bize Telegram adresimizden ulaşabilirsiniz.
 
+
 {{< admonition quote >}}
 **Paylaştığın senindir, biriktirdiğin değil!**
 {{< /admonition >}}
 
-
-Web sitemiz [açık kaynak](https://github.com/ybsci/pau) kodludur ve [Hugo](https://gohugo.io/) tarafından desteklenmektedir, sitemizin her kodunu inceleyebilirsiniz.
+Bloğumuz [açık kaynak](https://github.com/ybsci/pau) kodludur ve [Hugo](https://gohugo.io/) tarafından desteklenmektedir, sitemizin her kodunu inceleyebilirsiniz, ayrıca [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.tr) lisansı altındadır.
