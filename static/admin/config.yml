@@ -9,7 +9,7 @@ public_folder: "images"
 collections:
  - name: "Postlar"
    label: "Postlar"
-   folder: "content/posts"
+   folder: "content/posts/Markdown"
    create: true
    slug: "{{year}}-{{slug}}"
    fields:
