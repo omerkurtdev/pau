@@ -1,26 +1,27 @@
 ---
 license: ""
-title: Markdown ile Blog Yazmak
-subtitle: Markdown ile Blog Yazmak
-date: 2020-08-08T21:00:00.000Z
 draft: false
-categories:
-  - Markdown
-tags:
-  - Markdown
-author: Ömer Kurt
 authorLink: https://www.omerkurt.dev
 hiddenFromHomePage: false
 toc:
   enable: true
 math:
   enable: false
+author: Ömer Kurt
 lastmod: ""
 featuredImage: ""
-description: Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
-hiddenFromSearch: false
+title: Markdown ile Blog Yazmak
+subtitle: Markdown ile Blog Yazmak
+date: 2020-08-08T21:00:00.000Z
+tags:
+  - Markdown
+  - Deneme
 lightgallery: true
 featuredImagePreview: /images/markdown.png
+categories:
+  - Markdown
+description: Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
+hiddenFromSearch: false
 ---
 Bu yazımda sizlere Markdown'nın ne olduğundan bahsedeceğim.
 <!--more-->
