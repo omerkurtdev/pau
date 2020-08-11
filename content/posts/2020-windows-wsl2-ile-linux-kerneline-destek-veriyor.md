@@ -32,4 +32,4 @@ Windows ve linux temelde donanımla haberleşirken farklı yöntemler kullanılm
 Eğer sisteminizin sürümünü bilmiyorsanız arama kısmına:
 `winver`
 
-![](images/winver.webp)
+![](/images/winver.webp)
