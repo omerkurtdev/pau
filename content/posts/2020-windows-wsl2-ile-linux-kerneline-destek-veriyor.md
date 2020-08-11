@@ -61,7 +61,7 @@ Bu komut bilgisayarınızda sanal makineyi kullanım için aktif hale getirecekt
 
 ### 5. Sanal Makine için WSL2 Aktif Etme
 
-````dism.exe
+```dism.exe
 Linux /all /norestart```
 
 ![WSL2 Aktif Etme](/images/adım3.webp "WSL2 Aktif Etme")
