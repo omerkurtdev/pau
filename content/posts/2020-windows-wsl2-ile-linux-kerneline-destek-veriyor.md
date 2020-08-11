@@ -85,16 +85,17 @@ Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
 Bu komutu kopyalayıp powershellde çalıştırınız. Bu komut WSL2'yi default olarak uygulanacaktır.
 
 ### 9. WSL VarOlan GNU/Linux İşletim Sistemlerinini Görme
-Powershell komutu:```wsl --list --verbose```
 
-![WSL Var Olan Linux İşletim Sistemlerinini Görme](images/adim-9.webp "WSL Var Olan Linux İşletim Sistemlerinini Görme")
+Powershell komutu:`wsl --list --verbose`
+
+![WSL Var Olan Linux İşletim Sistemlerinini Görme](/images/adim-9.webp "WSL Var Olan Linux İşletim Sistemlerinini Görme")
 
 Bilgisayarınızda var olan makineleri listeler. 
 
 ### 10. Linux İndirmek
+
 Microsoft mağazasına giderek istediğiniz Linux dağıtımını indiriniz. Garip mi geldi bana da ben Kali Linux'u indirdim ve kurdum.
 
 ![Linux İndirmek](/images/adım-10.webp "Linux İndirmek")
 
-uygulamayı başlattığınız esnada bilgisayarın en saf hali olan terminal ekranı önünüze gelecektir.
-
+Uygulamayı başlattığınız esnada bilgisayarın en saf hali olan terminal ekranı önünüze gelecektir.
