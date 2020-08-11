@@ -27,11 +27,9 @@ Windows ve linux temelde donanımla haberleşirken farklı yöntemler kullanılm
 
 **Hadi gelin kurulum detaylarına geçelim.**
 
-## Windows Güncelleme
-
-1. Öncelikle windows 10 sürümünüzün 2004 olması gerekir. eğer değilse yükseltme yapmadan kurmanızı tavsiye etmiyorum. Çünkü 2004 ten önceki sürümler WSL1 teknolojisi kullanıyor ve bu teknoloji linux kerneline destek vermemektedir.
-
-Eğer sisteminizin sürümünü bilmiyorsanız arama kısmına:
+## Adım Adım
+### 1. Windows Güncelleme 
+Öncelikle windows 10 sürümünüzün 2004 olması gerekir. eğer değilse yükseltme yapmadan kurmanızı tavsiye etmiyorum. Çünkü 2004 ten önceki sürümler WSL1 teknolojisi kullanıyor ve bu teknoloji linux kerneline destek vermemektedir. Eğer sisteminizin sürümünü bilmiyorsanız arama kısmına:
 `winver`
 
 ![Windows Hakkında](/images/winver.webp "Windows Hakkında")
@@ -51,4 +49,8 @@ Bu terminal kodunu kopyalayıp powerselle yapıştırıp enter’a basınız. bu
 
 `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
 
-![WSL2 aktif etme](/images/adım2.webp "WSL2 aktif etme")
+![Sanal Makine aktif etme](/images/adım2.webp "Sanal makineyi aktif etme")
+
+Bu komut bilgisayarınızda sanal makineyi kullanım için aktif hale getirecektir.
+
+5. Sanal Makine için WSL2 aktif etme: 
