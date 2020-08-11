@@ -62,10 +62,9 @@ Bu komut bilgisayarınızda sanal makineyi kullanım için aktif hale getirecekt
 ### 5. Sanal Makine için WSL2 Aktif Etme
 
 ````dism.exe
-Linux /all /norestart``` 
-````
+Linux /all /norestart```
 
-![WSL2 Aktif Etme](/images/adım3.webp "WSL2 Aktif Etme)
+![WSL2 Aktif Etme](/images/adım3.webp "WSL2 Aktif Etme")
 
 ### 6. Bilgisayarınızı yeniden başlatın.
 
@@ -73,5 +72,17 @@ Linux /all /norestart```
 
 <https://aka.ms/wsl2kernel> linkine giderek WSL linux kernelini indirin ve kurun.
 
-![Kernel İndirme](/images/7.adım.webp, "Kernel İndirme")
+![Kernel İndirme](/images/7.adım.webp "Kernel İndirme")
 
+### 8. WSL Default Olarak Ayarlama
+
+Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
+
+`wsl --set-default-version 2`
+
+![WSL Default Ayarlama](/images/adım-8.webp "WSL Default Ayarlama")
+
+Bu komutu kopyalayıp powershellde çalıştırınız. Bu komut WSL2'yi default olarak uygulanacaktır.
+
+### 9. WSL Varolan GNU/Linux İşletim Sistemlerinini Görme
+Powershell komutu:```wsl --list --verbose```
