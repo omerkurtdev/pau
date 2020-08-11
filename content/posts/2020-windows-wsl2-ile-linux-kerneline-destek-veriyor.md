@@ -28,7 +28,9 @@ Windows ve linux temelde donanımla haberleşirken farklı yöntemler kullanılm
 **Hadi gelin kurulum detaylarına geçelim.**
 
 ## Adım Adım
-### 1. Windows Güncelleme 
+
+### 1. Windows Güncelleme
+
 Öncelikle windows 10 sürümünüzün 2004 olması gerekir. eğer değilse yükseltme yapmadan kurmanızı tavsiye etmiyorum. Çünkü 2004 ten önceki sürümler WSL1 teknolojisi kullanıyor ve bu teknoloji linux kerneline destek vermemektedir. Eğer sisteminizin sürümünü bilmiyorsanız arama kısmına:
 `winver`
 
@@ -36,7 +38,8 @@ Windows ve linux temelde donanımla haberleşirken farklı yöntemler kullanılm
 
 Eğer sisteminiz resimde görünen gibi güncel değil ise güncelleyin.
 
-### 2. WSL Yükleme 
+### 2. WSL Yükleme
+
 Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
 `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 
@@ -44,8 +47,10 @@ Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
 
 Bu terminal kodunu kopyalayıp powerselle yapıştırıp enter’a basınız. bu komut WSL’i aktif hale getirecektir.
 
-### 3. Bilgisayarınızı yeniden başlatın.
-### 4. Sanal makineyi aktif etme
+### 3. Bilgisayarınızı Yeniden Başlatın.
+
+### 4. Sanal Makineyi Aktif Etme
+
 Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
 
 `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
@@ -54,4 +59,19 @@ Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
 
 Bu komut bilgisayarınızda sanal makineyi kullanım için aktif hale getirecektir.
 
-5. Sanal Makine için WSL2 aktif etme: 
+### 5. Sanal Makine için WSL2 Aktif Etme
+
+````dism.exe
+Linux /all /norestart``` 
+````
+
+![WSL2 Aktif Etme](/images/adım3.webp "WSL2 Aktif Etme)
+
+### 6. Bilgisayarınızı yeniden başlatın.
+
+### 7. Linux Kernelini İndirme
+
+<https://aka.ms/wsl2kernel> linkine giderek WSL linux kernelini indirin ve kurun.
+
+![Kernel İndirme](/images/7.adım.webp, "Kernel İndirme")
+
