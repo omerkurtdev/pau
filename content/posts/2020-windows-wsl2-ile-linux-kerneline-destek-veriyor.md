@@ -98,4 +98,28 @@ Microsoft mağazasına giderek istediğiniz Linux dağıtımını indiriniz. Gar
 
 ![Linux İndirmek](/images/adım-10.webp "Linux İndirmek")
 
-Uygulamayı başlattığınız esnada bilgisayarın en saf hali olan terminal ekranı önünüze gelecektir.
+Uygulamayı başlattığınız esnada bilgisayarda terminal ekranı önünüze gelecektir.
+
+![Terminal](/images/adım11.webp "Terminal")
+
+Çekinmeyin korkacak bir şey yok, şimdi kendinize bir kullanıcı adı ve şifre seçin eğer sürekli kullanacaksanız lütfen unutmayacak şeyler seçin malum Linux eğer parola bilmiyorsanız size zırnık koklatmaz😀
+
+## Kali linux Arayüzünü Yükleme
+
+WSL ile kali linux terminalini istediğiniz gibi kullanabilirsiniz. Fakat ben arayüz görmek istiyorum bu şekil çok çirkin derseniz Sorun yok arayüzünü hemen yükleyebiliriz. Hemen değilde Koca bir arayüz indireceksiniz terminal üstünden biraz beklemeniz gerekecek:)
+
+### 1. Sistem Güncellemesi
+
+`sudo apt update && sudo apt upgrade -y`
+
+![Sistem Güncellemesi](/images/adım12.webp "Sistem Güncellemesi")
+komutunu yapıştırıp enter’a tıklayınız.Linux terminalinde kopyala yapıştır ctrl+shift+v ile yapılır normalde fakat burda, kopyaladıktan sonra mouse de sağ tıklayarak yapabilirsiniz. Olmadıysa elle yazın artık 🙂 bu yapının inmesi biraz zaman alacaktır
+
+2. Xfce Pencere Yöneticisini İndirmek
+```sudo apt install kali-desktop-xfce -y```
+
+Bu komut arayüzü indirip kuracaktır.
+
+İndirme esnasında isterseniz şuan bilgisayarınızda var olan makinelerin durumunu  incelemek için , windows powershell’ ine:```wsl --list --verbose```
+
+
