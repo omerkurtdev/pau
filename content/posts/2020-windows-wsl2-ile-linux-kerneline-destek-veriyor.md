@@ -28,3 +28,6 @@ Windows ve linux temelde donanımla haberleşirken farklı yöntemler kullanılm
 **Hadi gelin kurulum detaylarına geçelim.**
 
 1. Öncelikle windows 10 sürümünüzün 2004 olması gerekir. eğer değilse yükseltme yapmadan kurmanızı tavsiye etmiyorum. Çünkü 2004 ten önceki sürümler WSL1 teknolojisi kullanıyor ve bu teknoloji linux kerneline destek vermemektedir.
+
+Eğer sisteminizin sürümünü bilmiyorsanız arama kısmına:
+`winver`
