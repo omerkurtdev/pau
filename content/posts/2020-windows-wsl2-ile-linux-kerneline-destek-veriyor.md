@@ -18,13 +18,13 @@ hiddenFromSearch: false
 lightgallery: false
 featuredImagePreview: images/windows.webp
 ---
-Ne dediğinizi duyar gibiyim. Bende ilk duyduğumda öyle demiştim. Microsoft açık kaynak verilerine destek vermesi bana çok garip geldi ama yapmış şaşırtıcı 🙂 Windows bu desteği sunması bize nasıl bir fayda sağlayacak ?
+Ne dediğinizi duyar gibiyim. Bende ilk duyduğumda öyle demiştim. Microsoft açık kaynak verilerine destek vermesi bana çok garip geldi ama yapmış şaşırtıcı. Windows bu desteği sunması bize nasıl bir fayda sağlayacak?
 
-Hala yaygın olarak kullanılan sanal makine kurma ile istenilen her işletim sistemi windowsa kurulabilir fakat bu biraz zahmetli ve uğraştırıcı bir yoldur. Bunu yapmak için bilgisayarınıza virtualbox kurmanız ve sanal makineyi aktif etmeniz için, kullanmak istediğiniz linux dağıtımını indirmeniz gerekir. Genel de yeni kullanıcılar için biraz zahmetli bir yoldur ve kaynak kullanımı fazladır. Tabi Sanal makine de ayarladığınız kaynak kadar kaynak tüketir. Kurarken size sorar bu sanal makine için kaç GB ram kullanılsın diye.. virtualbox üçüncü taraf bir yazılım olduğu için bozulma ve kaydedilen verilerin kaybolma ihtimali de vardır. BU sebepten dolayı verilerinizin kaybolması ve bozulması ihtimali vardır.Tabi bu verileri kurtarabilirsiniz ama araştırmalarıma göre biraz zahmetli bir yol 🙂
+Hala yaygın olarak kullanılan sanal makine kurma ile istenilen her işletim sistemi windowsa kurulabilir fakat bu biraz zahmetli ve uğraştırıcı bir yoldur. Bunu yapmak için bilgisayarınıza virtualbox kurmanız ve sanal makineyi aktif etmeniz için, kullanmak istediğiniz linux dağıtımını indirmeniz gerekir. Genel de yeni kullanıcılar için biraz zahmetli bir yoldur ve kaynak kullanımı fazladır. Tabi Sanal makine de ayarladığınız kaynak kadar kaynak tüketir. Kurarken size sorar bu sanal makine için kaç GB ram kullanılsın diye.. virtualbox üçüncü taraf bir yazılım olduğu için bozulma ve kaydedilen verilerin kaybolma ihtimali de vardır. BU sebepten dolayı verilerinizin kaybolması ve bozulması ihtimali vardır.Tabi bu verileri kurtarabilirsiniz ama araştırmalarıma göre biraz zahmetli bir yol.
 
 Microsoft, windows 10 2004 güncellemesiyle gelen WSL(Windows Subsystem For Linux) teknolojisiyle, yukarıda bahsettiğim adımları kullanmadan bir linux dağıtımını windows üzerinden kullanmanızı sağlayan bir sistemdir.
 
-Windows ve linux temelde donanımla haberleşirken farklı yöntemler kullanılmaktadır. Yani linux donanım ile haberleşirken kullandığı arka plan işlemleri, windowsun kullandığı işlemler arasında farklılıklar olduğu kesin. hoş linux hangi işlemleri kullanıyor biliyoruz ama mesele windows olunca arka planda neler yapıyor en ufak bir fikrimiz yok.Çünkü açık kaynak bir yazılım değil. Windows ve para ayrılmaz ikililer:D. Windows bu problemi çözmek için arka planda bir sanallaştırma teknolojisi kullanmış. Okuduğum yorumlara ve araştırmalarda, sanal makineye göre daha stabil ve performanslı çalışmaktadır. Ehh okadar para kazanıyorsun bir zahmet olsun diyenlerdenseniz emin olun doğru yoldasınız.
+Windows ve Linux temelde donanımla haberleşirken farklı yöntemler kullanılmaktadır. Yani Linux donanım ile haberleşirken kullandığı arka plan işlemleri, windowsun kullandığı işlemler arasında farklılıklar olduğu kesin. hoş linux hangi işlemleri kullanıyor biliyoruz ama mesele windows olunca arka planda neler yapıyor en ufak bir fikrimiz yok.Çünkü açık kaynak bir yazılım değil. Windows ve para ayrılmaz ikililer:D. Windows bu problemi çözmek için arka planda bir sanallaştırma teknolojisi kullanmış. Okuduğum yorumlara ve araştırmalarda, sanal makineye göre daha stabil ve performanslı çalışmaktadır. Ehh okadar para kazanıyorsun bir zahmet olsun diyenlerdenseniz emin olun doğru yoldasınız.
 
 **Hadi gelin kurulum detaylarına geçelim.**
 
@@ -140,6 +140,7 @@ Terminale: `ip add` komutu ile öğrenin ve not alın.
 ![IP Adresi Öğrenme](/images/adim21ı-1.webp "IP Adresi Öğrenme")
 
 ### 6. Uzak Masaüstü Bağlantısı(RDP) Açmak
+
 Windows arama kısmında uzak masaüstü bağlantısı(RDP) yazarak aratırsanız sizden ip isteyen bir arayüz gelecektir. Oraya not aldığınız ip adresini yazın, bağlana tıklayın. Önünüze xrdp arayüzü açılacak buraya Linux kurulumu yaparken kullandığınız kullanıcı adı ve parolayı giriniz.
 
-Kali kinux terminalini açıp istediğiniz programı yükleyebilir ve işlemler yapabilirsiniz. 
+Kali kinux terminalini açıp istediğiniz programı yükleyebilir ve işlemler yapabilirsiniz.
