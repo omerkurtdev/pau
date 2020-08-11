@@ -16,6 +16,7 @@ description: Ne dediğinizi duyar gibiyim. Bende ilk duyduğumda öyle demiştim
 hiddenFromHomePage: false
 hiddenFromSearch: false
 lightgallery: false
+featuredImagePreview: images/windows.webp
 ---
 Ne dediğinizi duyar gibiyim. Bende ilk duyduğumda öyle demiştim. Microsoft açık kaynak verilerine destek vermesi bana çok garip geldi ama yapmış şaşırtıcı 🙂 Windows bu desteği sunması bize nasıl bir fayda sağlayacak ?
 
@@ -115,11 +116,30 @@ WSL ile kali linux terminalini istediğiniz gibi kullanabilirsiniz. Fakat ben ar
 ![Sistem Güncellemesi](/images/adım12.webp "Sistem Güncellemesi")
 komutunu yapıştırıp enter’a tıklayınız.Linux terminalinde kopyala yapıştır ctrl+shift+v ile yapılır normalde fakat burda, kopyaladıktan sonra mouse de sağ tıklayarak yapabilirsiniz. Olmadıysa elle yazın artık 🙂 bu yapının inmesi biraz zaman alacaktır
 
-2. Xfce Pencere Yöneticisini İndirmek
-```sudo apt install kali-desktop-xfce -y```
+### 2. Xfce Pencere Yöneticisini İndirmek
+
+`sudo apt install kali-desktop-xfce -y`
 
 Bu komut arayüzü indirip kuracaktır.
 
-İndirme esnasında isterseniz şuan bilgisayarınızda var olan makinelerin durumunu  incelemek için , windows powershell’ ine:```wsl --list --verbose```
+İndirme esnasında isterseniz şuan bilgisayarınızda var olan makinelerin durumunu  incelemek için , windows powershell’ ine:`wsl --list --verbose` komutunu çalıştırıp görebilirsiniz.
 
+### 3. Xrdp'yi İndirmek
 
+Şimdi kurduğumuz Kali Linux arayüzüne ulaşmak için uzaktan kontrol etme bağlantısını kullanarak bağlanalım bunun için Linux terminali için xrdp kurmamız gerekir.( Remote desktop Connetion: Windows üzerinden çalışan başka bir internete bağlı windows cihazına bağlanmanızı sağlayan bir teknoloji, Xrdp Linux makinelere bağlanmanızı sağlar).
+`sudo apt install xrdp -y` bu komut bilgisayarınıza Xrdp'yi kuracaktır.
+
+### 4. Xrdp Servisini Başlatmak
+
+Linux terminaline: `sudo service xrdp start` komutunu çalıştırın. Xrdp başlamış olacaktır.
+
+### 5. IP adresini Öğrenme
+
+Terminale: `ip add` komutu ile öğrenin ve not alın. 
+
+![IP Adresi Öğrenme](/images/adim21ı-1.webp "IP Adresi Öğrenme")
+
+### 6. Uzak Masaüstü Bağlantısı(RDP) Açmak
+Windows arama kısmında uzak masaüstü bağlantısı(RDP) yazarak aratırsanız sizden ip isteyen bir arayüz gelecektir. Oraya not aldığınız ip adresini yazın, bağlana tıklayın. Önünüze xrdp arayüzü açılacak buraya Linux kurulumu yaparken kullandığınız kullanıcı adı ve parolayı giriniz.
+
+Kali kinux terminalini açıp istediğiniz programı yükleyebilir ve işlemler yapabilirsiniz. 
