@@ -36,16 +36,17 @@ Windows ve linux temelde donanımla haberleşirken farklı yöntemler kullanılm
 
 Eğer sisteminiz resimde görünen gibi güncel değil ise güncelleyin.
 
-2. WSL Yükleme: Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
-
+### 2. WSL Yükleme 
+Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
 `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 
-![](/images/adım1.webp)
+![WSL Yükleme](/images/adım1.webp "WSL Yükleme")
 
 Bu terminal kodunu kopyalayıp powerselle yapıştırıp enter’a basınız. bu komut WSL’i aktif hale getirecektir.
 
-3. Bilgisayarınızı yeniden başlatın.
-4. Sanal makineyi aktif etme:Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
+### 3. Bilgisayarınızı yeniden başlatın.
+### 4. Sanal makineyi aktif etme
+Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
 
 `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
 
