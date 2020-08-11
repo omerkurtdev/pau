@@ -26,16 +26,29 @@ Microsoft, windows 10 2004 güncellemesiyle gelen WSL(Windows Subsystem For Linu
 Windows ve linux temelde donanımla haberleşirken farklı yöntemler kullanılmaktadır. Yani linux donanım ile haberleşirken kullandığı arka plan işlemleri, windowsun kullandığı işlemler arasında farklılıklar olduğu kesin. hoş linux hangi işlemleri kullanıyor biliyoruz ama mesele windows olunca arka planda neler yapıyor en ufak bir fikrimiz yok.Çünkü açık kaynak bir yazılım değil. Windows ve para ayrılmaz ikililer:D. Windows bu problemi çözmek için arka planda bir sanallaştırma teknolojisi kullanmış. Okuduğum yorumlara ve araştırmalarda, sanal makineye göre daha stabil ve performanslı çalışmaktadır. Ehh okadar para kazanıyorsun bir zahmet olsun diyenlerdenseniz emin olun doğru yoldasınız.
 
 **Hadi gelin kurulum detaylarına geçelim.**
+
 ## Windows Güncelleme
+
 1. Öncelikle windows 10 sürümünüzün 2004 olması gerekir. eğer değilse yükseltme yapmadan kurmanızı tavsiye etmiyorum. Çünkü 2004 ten önceki sürümler WSL1 teknolojisi kullanıyor ve bu teknoloji linux kerneline destek vermemektedir.
 
 Eğer sisteminizin sürümünü bilmiyorsanız arama kısmına:
 `winver`
 
-![](/images/winver.webp)
+![Windows Hakkında](/images/winver.webp "Windows Hakkında")
 
 Eğer sisteminiz resimde görünen gibi güncel değil ise güncelleyin.
 
 2. WSL Yükleme: Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
 
-```Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux```
+`Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
+
+![](/images/adım1.webp)
+
+Bu terminal kodunu kopyalayıp powerselle yapıştırıp enter’a basınız. bu komut WSL’i aktif hale getirecektir.
+
+3. Bilgisayarınızı yeniden başlatın.
+4. Sanal makineyi aktif etme:Windows arama çubuğuna powersell yazıp, yönetici olarak çalıştırınız.
+
+`dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
+
+![WSL2 aktif etme](/images/adım2.webp "WSL2 aktif etme")
