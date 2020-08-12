@@ -19,6 +19,7 @@ featuredImage: /images/unnamed-2.jpg
 featuredImagePreview: images/is-zekasi-1-800x445.jpg
 ---
 ## İş Zekası Nedir?
+
 Teknolojinin gelişmesi ve endüstri 4.0 kavramının ortaya çıkmasıyla birlikte veri (Data) dediğimiz ham madde gittikçe artmıştır.
 
 Şöyle düşünelim, dünya tarihi boyunca insanlar ham madde arayışında bulunmuştur. Bu anlamda data teknoloji çağının en önemli ham maddesi olarak görüyorum.
