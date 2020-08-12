@@ -147,8 +147,10 @@ Stajlar iş hayatının minik bir alıştırması gibidir. Staj yapan kişiye i�
 
 #### *Give-Back kültürü hayatınızın bir parçası olsun !*
 
-Give-back türkçede "geri vermek" anlamına geliyor. Üniversite döneminde araştırma,network, iş, staj vb. konularda pek çok deneyim elde edeceksiniz ve üniversite bizlere derslerden daha çok sağladığı olanaklar ve bulundurduğu sosyal network ile büyük bir ilham havuzu sunuyor. Give-back külütürünün temelinde içindeki girişimci ruh ile bu havuzdan istediğin gibi kendini besle, geliştir güzel işlere imza at ve sonrasında kendi birikimini ilhamını diğer insanlar ile her ortamda paylaş onları da geliştir. **Çünkü bilgi,deneyim, ilham paylaştıkça ve değer kattıkça güzel !!**
-
+Give-back türkçede "geri vermek" anlamına geliyor. Üniversite döneminde araştırma,network, iş, staj vb. konularda pek çok deneyim elde edeceksiniz ve üniversite bizlere derslerden daha çok sağladığı olanaklar ve bulundurduğu sosyal network ile büyük bir ilham havuzu sunuyor. Give-back külütürünün temelinde içindeki girişimci ruh ile bu havuzdan istediğin gibi kendini besle, geliştir güzel işlere imza at ve sonrasında kendi birikimini ilhamını diğer insanlar ile her ortamda paylaş onları da geliştir. 
+{{< admonition >}}
+**Çünkü bilgi,deneyim, ilham paylaştıkça ve değer kattıkça güzel !!**
+{{< /admonition >}}
 
 #### *Give-Back kültürü hayatınızın bir parçası olsun !*
 
@@ -159,9 +161,10 @@ Günümüzde hem bilişim hem de işletme alanında değerli kaynakların hepsi 
 
 Son olarak seveceğiniz yada seveceğinizi düşündüğünüz bir işi yapın zaten bu olduktan sonra geliştirdiğiniz, yaptığınız araştırdığınız her şeyi büyük bir zevkle yapıyorsunuz. **Önemli olan sizsiniz ve sizin hayalleriniz durmadan sıkılmadan daha büyük hayaller kuralım !!**
 
+{{< admonition quote >}}
 ### Hayattaki mesleğiniz, en büyük neşenizin dünyanın en büyük ihtiyacını karşıladığı yerdir.
 **— Frederick Buechner**
-
+{{< /admonition >}}
 
 Eğer aklınıza takılan sorular olursa aşağıda bıraktığım linklerden benimle iletişime geçebilirsiniz :)
 
