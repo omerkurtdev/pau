@@ -1,6 +1,6 @@
 ---
-title: İş Zekası Ve Raporlama
-subtitle: İş Zekası Ve Raporlama
+title: İş Zekası ve Raporlama
+subtitle: İş Zekası ve Raporlama
 date: 2020-08-12T11:31:47.383Z
 lastmod: 2020-08-12T11:31:48.434Z
 draft: false
