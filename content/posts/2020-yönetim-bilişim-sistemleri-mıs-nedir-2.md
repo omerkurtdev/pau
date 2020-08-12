@@ -1,5 +1,6 @@
 ---
 title: Yönetim Bilişim Sistemleri (MIS) Nedir ?
+subtitle: Yönetim Bilişim Sistemleri (MIS) Nedir ?
 date: 2020-08-12T12:21:47.630Z
 lastmod: 2020-08-12T12:24:18.576Z
 draft: false
@@ -9,7 +10,7 @@ tags:
   - PAU
   - YBS
 author: Abdullah Oğuz
-authorLink: https://www.linkedin.com/in/oguz-abdullah/
+authorLink: www.google.com
 description: Yönetim Bilişim Sistemleri hakkında genel bir bilgi, sıkça sorulan
   sorular ve kendimizi geliştirebilmek için bir kaç öneriyi bu yazdıda topladım
   :)
@@ -87,8 +88,6 @@ Detaylı bilgi : www.instagram.com/ybzirvesi
 
 * IMISC daha çok YBS alanındaki önemli akademisyenlerin katıldığı akademik bir etkinliktir.
 
-
-http://2020.imisc.net/en/homepage/?title=Main_Page
 
 
 #### Devlet mi yoksa özel üniversite mi ?
@@ -170,4 +169,4 @@ Eğer aklınıza takılan sorular olursa aşağıda bıraktığım linklerden be
 
  [Telegram](https://t.me/aoguz1)
 
-[Kişisel Web Sitesi]((https://www.abdullahoguz.com))
+[Kişisel Web Sitesi](https://www.abdullahoguz.com)
