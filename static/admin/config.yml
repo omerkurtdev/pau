@@ -4,7 +4,7 @@ backend:
 
 
 media_folder: "static/images"
-public_folder: "images"
+public_folder: "/images"
 
 collections:
  - name: "Postlar"
@@ -26,6 +26,7 @@ collections:
       - {label: "Sayfada Gizle", name: "hiddenFromHomePage", widget: "boolean", default: false}
       - {label: "Aramada Gizle", name: "hiddenFromSearch", widget: "boolean", default: false}
       - {label: "Galeri", name: "lightgallery", widget: "boolean", default: false}
+      - {label: "Blog Fotoğrafı", name: "featuredImage", widget: image, required: false}
       - {label: "Blog Fotoğrafı(Preview)", name: "featuredImagePreview", widget: image, required: false}
       - {label: "Editör", name: "body", widget: "markdown"}
  - name: "Hakkımızda"
@@ -47,5 +48,6 @@ collections:
       - {label: "Sayfada Gizle", name: "hiddenFromHomePage", widget: "boolean", default: false}
       - {label: "Aramada Gizle", name: "hiddenFromSearch", widget: "boolean", default: false}
       - {label: "Galeri", name: "lightgallery", widget: "boolean", default: false}
+      - {label: "Blog Fotoğrafı", name: "featuredImage", widget: image, required: false}
       - {label: "Blog Fotoğrafı(Preview)", name: "featuredImagePreview", widget: image, required: false}
       - {label: "Editör", name: "body", widget: "markdown"}
