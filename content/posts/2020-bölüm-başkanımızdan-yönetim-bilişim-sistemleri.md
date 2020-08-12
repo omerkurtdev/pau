@@ -15,7 +15,7 @@ description: Bölüm başkanımızın bilgisayar kavramları ile yaptığı röp
 hiddenFromHomePage: false
 hiddenFromSearch: false
 lightgallery: true
-featuredImagePreview: images/tumbnail.webp
+featuredImagePreview: /images/tumbnail.webp
 ---
 Yönetim Bilişim Sistemleri Bölüm başkanımız Selçuk Burak Haşıloğlu'nun [Bilgisayar Kavramları](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g) ile yaptığı röportaj.
 
