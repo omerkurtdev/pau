@@ -19,7 +19,7 @@ featuredImagePreview: images/is-zekasi-1-800x445.jpg
 ---
 ## İş Zekası Nedir?
 
-![](images/unnamed-2.jpg)
+![](/images/unnamed-2.jpg)
 
 Teknolojinin gelişmesi ve endüstri 4.0 kavramının ortaya çıkmasıyla birlikte veri (Data) dediğimiz ham madde gittikçe artmıştır.
 
@@ -33,7 +33,7 @@ Kısacası insan ham maddeyi kendi elleri ile üretiyor. Şimdi bir yerde ham ma
 
 Şöyle düşünelim, ben gün içinde internet üzerinde trendyol, n11.com ya da hepsiburada.com sitelerinden birinde  alışveriş yaptım diyelim. Benim ne aldığım, ne kadara aldığım, ne renkte ve ne zaman aldığım gibi bilgilerimin hepsi bu alışveriş yaptığım sitenin veri tabanına düşüyor.
 
-![](images/unnamed-2.png)
+![](/images/unnamed-2.png)
 
 İşte benim veri’m ya da data’m burda depolanıyor. Tabi benim gibi bütün müşterilerin dataları bu şekilde alınıyor.
 
@@ -41,4 +41,4 @@ Data veri tabanına kayıt edildikten sonra işlenmeye alınıyor. Bu datalar be
 
 İş Zekası dediğimiz kavram bu dataların toplanıp ETL süreçlerinden geçtikten sonra raporlamaya hazır bir şekilde İş Zekası ve Raporlama toollarında istenilen veya talep edilen şekilde görsellik kazandırılmasıdır. Aşağıda gördüğünüz resi ETL sonucu ortaya çıkmış bir İş Zekası ve Raporlama çalışmasıdır.
 
-![Covid19-Raporu](images/covid-19-2.png "Covid19-Raporu")
+![Covid19-Raporu](/images/covid-19-2.png "Covid19-Raporu")
