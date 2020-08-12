@@ -17,7 +17,6 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 lightgallery: false
 ---
-
 Tercih dönemlerinde artık adı sıkça anılan ve araştırılan bu bölümün öğrencilerinden biri olarak ben de kendimce "YBS (MIS) nedir ?, YBS hakkında sıkça sorulan sorular, YBS seçtim kendimi nasıl geliştiririm? " gibi konularda deneyimlediklerimi paylaşacağım.
 E o zaman haydi ! Bakalım neymiş bu YBS :)
 
@@ -26,7 +25,7 @@ E o zaman haydi ! Bakalım neymiş bu YBS :)
 **YBS (MIS) :** En basit anlamıyla yönetim ve bilişim kavramları arasında bir köprü kurarak kendi içinde yazılım, işletme ve enformatik gibi kavramları kullanan multidisipliner bir bölümdür. Yani YBS’ciler olarak şirketlerin işletme ve yazılım departmanları arasında uyum içinde işlemesinde önemli rol oynuyoruz. Hem işletme tarafından hem de yazılım tarafından bilgi sistemlerinin kullanılmasında YBS’cilerin önemi büyüktür. Aslında bakıldığında YBS’ci ne bir bilgisayar mühendisi ne de bir işletmecidir. Ama her iki bölümün de bilmesi gereken temel yapıları bilen ve bu disiplinler ile işletmeler için hayati öneme sahip kişilerdir.
 Türkiye’de özellikle son zamanlarda hem firmalar böyle bir alanın gerekliliğini görmüş ve son zamanlarda da üniversitelerde popülerliği gittikçe artan bu bölümü okuyan kişiye analitik düşünme ve karar verme, algoritmik açıdan gelişebilme, verileri analiz etme ve buna göre karar yapıları oluşturabilme gibi daha pek çok konuda yetkinlik kazandırılıyor.
 
-----------
+- - -
 
 ### **2-Sıkça Sorulan Sorular ?**
 
@@ -77,19 +76,15 @@ YBS daha çok özel sektör ve girişimciliğe hitap eden bir bölüm ama İİBF
 
 YBS’nin genel çalışma alanı özel sektör olduğu için burada önemli olan neler bildiklerin, yaptığın projeler neler ?, hangi yazılım dilleri ile geliştirme yapıyorsun ? Yabancı dil seviyen ne ?, Girişimci ve lider ruhlu bir insan mısın ?, üniversite döneminde okul dışında yaptığın etkinlikler ve kazanımların ? buna benzer sorulara verceğin cevaplara göre ve yaptığın projelerin niteliği ve tecrübelerin alacağın maaşı belirliyor, Asgari ücret kazananda var 20.000₺ kazananda asıl mesela kendini ne kadar geliştirebildiğin.
 
-
 #### YBS alanında düzenlenen etkinlikler nelerdir ?
 
 * 2013'den bu yana düzenlenen Yönetim Bilişim Zirvesi bölümün en önemli etkinliğidir.
 
 Detaylı bilgi : www.instagram.com/ybzirvesi
 
-
 * IMISC daha çok YBS alanındaki önemli akademisyenlerin katıldığı akademik bir etkinliktir.
 
-
 http://2020.imisc.net/en/homepage/?title=Main_Page
-
 
 #### Devlet mi yoksa özel üniversite mi ?
 
@@ -107,7 +102,7 @@ Bu konuda Türkiye’deki üniversiteler arasında bir birlik sağlanabilmiş de
 
 Dersler genel anlamda zor değil, düzenli bir çalışma ile tüm derslerden başarı elde edebilirsin. Derslerin zor olmaması ders dışında kendimizi geliştirmek için uygun ortam sağlıyor.
 
-----------
+- - -
 
 ### 3- Kendimi nasıl geliştirebilirim ?
 
@@ -121,54 +116,48 @@ Bölümü kazandık ama 2. sınıfta başlarız çalışmaya demeyin. **Erken ka
 
 Bölüme geldikten sonra bilişim alanı mı yoksa işletme alanında mı kendinizi geliştirmek istiyorsunuz buna karar verdikten sonra seçtiğiniz alan ile ilgili sürekli araştırmalar yapın, gelişmeleri takip edin, kendinizi güncel tutun bilişim alanını seçtiyseniz yöneldiğiniz dil veya araçlar ile bir şeyler üretmeye çalışın. İşletme alanına yönelmeyi düşünüyorsanız işletme ile ilgili deneyim kazanmak için çalışmalar yapın. Yaptığınız araştırmaları sadece teorikte değil pratikte de uygulamaya çalışın.
 
-
-
 #### *Network ağınızı genişletin*
 
 Network ağınızı genişleterek sektördeki kişiler ile yakın iletişimde olun. Network ağınızı ne kadar çok geliştirirseniz o kadar çok sektör hakkında bilgiye kolay erişebilir hale gelirsiniz. Linkedin gibi sosyal medya uygulamalarını kullanarak kendinize ölçeklendirilebilir bir ağ oluşturabilirsiniz.
-
 
 #### *Topluluklarda etkin rol oynayın*
 
 Üniversitede bulunan öğrenci toplulukları yada bilişim ile ilgili önemli topluluklarda yer alarak hatta yönetim ekibinde görev alarak kendinizi daha sosyal ve üretken bir hale getirebilirsiniz. Bu tarz topluluklarda yönetim ekibinin içinde yer almak size bir etkinlik nasıl düzenlenir. Etkinlik nasıl yönetilir gibi pek çok değerli deneyim katacaktır.
 
-
-
 #### *Ürettiklerinizi paylaşın*
 
 Eğer bilişim ile ilgileniyorsanız, ürettiklerinizi github, dribbble, behance gibi ortamlarda paylaşın, bu şekilde geliştirdiğiniz projeler hakkında geri bildirim alarak o alanlarda kendinizi geliştirebilirsiniz. Ayrıca bu ortamlarda paylaştığınız projeler sizin internet ortamında portfölyenizi oluşturur.
-
-
 
 #### *Staj ve Part-time İş*
 
 Stajlar iş hayatının minik bir alıştırması gibidir. Staj yapan kişiye işlerin nasıl yürüdüğünü neler yapılması gerektiğini gösteren ve adeta iş hayatına hazırlık gibidir. İmkanınız varsa üniversitede mutlaka part-time bir işte çalışın. Part-time işte çalıştığınız sürece öğrendiklerinizin deneyime dökebilme şansınız olacak ve bu tarz deneyimler kazandıkça okulda öğretilenlerin işin sadece çok küçük bir bölümünü kapsadığını göreceksiniz.
 
-
 #### *Give-Back kültürü hayatınızın bir parçası olsun !*
 
-Give-back türkçede "geri vermek" anlamına geliyor. Üniversite döneminde araştırma,network, iş, staj vb. konularda pek çok deneyim elde edeceksiniz ve üniversite bizlere derslerden daha çok sağladığı olanaklar ve bulundurduğu sosyal network ile büyük bir ilham havuzu sunuyor. Give-back külütürünün temelinde içindeki girişimci ruh ile bu havuzdan istediğin gibi kendini besle, geliştir güzel işlere imza at ve sonrasında kendi birikimini ilhamını diğer insanlar ile her ortamda paylaş onları da geliştir. **Çünkü bilgi,deneyim, ilham paylaştıkça ve değer kattıkça güzel !!**
+Give-back türkçede "geri vermek" anlamına geliyor. Üniversite döneminde araştırma,network, iş, staj vb. konularda pek çok deneyim elde edeceksiniz ve üniversite bizlere derslerden daha çok sağladığı olanaklar ve bulundurduğu sosyal network ile büyük bir ilham havuzu sunuyor. Give-back külütürünün temelinde içindeki girişimci ruh ile bu havuzdan istediğin gibi kendini besle, geliştir güzel işlere imza at ve sonrasında kendi birikimini ilhamını diğer insanlar ile her ortamda paylaş onları da geliştir. 
 
+{{< admonition >}}
+**Çünkü bilgi,deneyim, ilham paylaştıkça ve değer kattıkça güzel !!**
+{{< /admonition >}}
 
 #### *Give-Back kültürü hayatınızın bir parçası olsun !*
 
 Günümüzde hem bilişim hem de işletme alanında değerli kaynakların hepsi yabancı dil ile yazılıyor bu kaynakları takip etmek ve oradan kendimizi beslemek çok önemli, hem kültürel anlamda hem de sektörel anlamda yabancı dilin önemi çok büyük yabancı dil konusunda kendinizi ne kadar geliştirirseniz sizin için kârdır.
 
-----------
-
+- - -
 
 Son olarak seveceğiniz yada seveceğinizi düşündüğünüz bir işi yapın zaten bu olduktan sonra geliştirdiğiniz, yaptığınız araştırdığınız her şeyi büyük bir zevkle yapıyorsunuz.
-{{< admonition >}}
-**Önemli olan sizsiniz ve sizin hayalleriniz durmadan sıkılmadan daha büyük hayaller kuralım !!**
-{{< /admonition >}}
+
+**Önemli olan sizsiniz ve sizin hayalleriniz durmadan sıkılmadan daha büyük hayaller kuralım!**
 
 {{< admonition quote >}}
+
 ### Hayattaki mesleğiniz, en büyük neşenizin dünyanın en büyük ihtiyacını karşıladığı yerdir.
+
 **— Frederick Buechner**
 {{< /admonition >}}
 
 Eğer aklınıza takılan sorular olursa aşağıda bıraktığım linklerden benimle iletişime geçebilirsiniz :)
-
 
  [Linkedin](https://www.linkedin.com/in/oguz-abdullah/)
 
