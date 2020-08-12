@@ -17,6 +17,6 @@ hiddenFromSearch: false
 lightgallery: true
 featuredImagePreview: /images/tumbnail.webp
 ---
-Yönetim Bilişim Sistemleri Bölüm başkanımız Selçuk Burak Haşıloğlu'nun [Bilgisayar Kavramları](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g) ile yaptığı röportaj.
+Yönetim Bilişim Sistemleri Bölüm Başkanımız Prof. Dr. Selçuk Burak Haşıloğlu'nun [Bilgisayar Kavramları](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g) ile yaptığı röportaj.
 
 {{< youtube zW33yQuNIDg >}}
