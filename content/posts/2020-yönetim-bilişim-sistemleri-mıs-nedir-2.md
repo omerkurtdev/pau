@@ -9,7 +9,7 @@ tags:
   - PAU
   - YBS
 author: Abdullah Oğuz
-authorLink: https://www.linkedin.com/in/oguz-abdullah/
+authorLink: ""
 description: Yönetim Bilişim Sistemleri hakkında genel bir bilgi, sıkça sorulan
   sorular ve kendimizi geliştirebilmek için bir kaç öneriyi bu yazdıda topladım
   :)
