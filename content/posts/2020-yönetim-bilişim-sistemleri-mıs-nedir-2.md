@@ -4,6 +4,7 @@ date: 2020-08-12T12:21:47.630Z
 lastmod: 2020-08-12T12:21:47.643Z
 draft: true
 author: Abdullah Oğuz
+authorLink: https://www.linkedin.com/in/oguz-abdullah/
 description: Yönetim Bilişim Sistemleri hakkında genel bir bilgi, sıkça sorulan
   sorular ve kendimizi geliştirebilmek için bir kaç öneriyi bu yazdıda topladım
   :)
