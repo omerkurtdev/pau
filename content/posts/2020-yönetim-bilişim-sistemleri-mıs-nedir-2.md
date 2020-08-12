@@ -1,7 +1,7 @@
 ---
 title: Yönetim Bilişim Sistemleri (MIS) Nedir ?
 date: 2020-08-12T12:21:47.630Z
-lastmod: 2020-08-12T12:21:47.643Z
+lastmod: 2020-08-12T12:24:18.576Z
 draft: false
 author: Abdullah Oğuz
 authorLink: https://www.linkedin.com/in/oguz-abdullah/
