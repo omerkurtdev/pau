@@ -3,6 +3,11 @@ title: Yönetim Bilişim Sistemleri (MIS) Nedir ?
 date: 2020-08-12T12:21:47.630Z
 lastmod: 2020-08-12T12:24:18.576Z
 draft: false
+categories:
+  - YBS Nedir
+tags:
+  - PAU
+  - YBS
 author: Abdullah Oğuz
 authorLink: https://www.linkedin.com/in/oguz-abdullah/
 description: Yönetim Bilişim Sistemleri hakkında genel bir bilgi, sıkça sorulan
@@ -10,7 +15,7 @@ description: Yönetim Bilişim Sistemleri hakkında genel bir bilgi, sıkça sor
   :)
 hiddenFromHomePage: false
 hiddenFromSearch: false
-lightgallery: false
+lightgallery: true
 ---
 
 Tercih dönemlerinde artık adı sıkça anılan ve araştırılan bu bölümün öğrencilerinden biri olarak ben de kendimce "YBS (MIS) nedir ?, YBS hakkında sıkça sorulan sorular, YBS seçtim kendimi nasıl geliştiririm? " gibi konularda deneyimlediklerimi paylaşacağım.
