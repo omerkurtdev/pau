@@ -10,6 +10,7 @@ tags:
   - İş Zekası
   - Raporlama
 author: Mikail Kaya
+authorLink: https://www.linkedin.com/in/mikail-kaya-a014a810a
 description: İş zekası ve raporlama hakkında
 hiddenFromHomePage: false
 hiddenFromSearch: false
