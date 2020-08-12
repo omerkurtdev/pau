@@ -15,12 +15,10 @@ description: İş zekası ve raporlama hakkında
 hiddenFromHomePage: false
 hiddenFromSearch: false
 lightgallery: false
+featuredImage: /images/unnamed-2.jpg
 featuredImagePreview: images/is-zekasi-1-800x445.jpg
 ---
 ## İş Zekası Nedir?
-
-![](/images/unnamed-2.jpg)
-
 Teknolojinin gelişmesi ve endüstri 4.0 kavramının ortaya çıkmasıyla birlikte veri (Data) dediğimiz ham madde gittikçe artmıştır.
 
 Şöyle düşünelim, dünya tarihi boyunca insanlar ham madde arayışında bulunmuştur. Bu anlamda data teknoloji çağının en önemli ham maddesi olarak görüyorum.
