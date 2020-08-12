@@ -88,8 +88,6 @@ Detaylı bilgi : www.instagram.com/ybzirvesi
 * IMISC daha çok YBS alanındaki önemli akademisyenlerin katıldığı akademik bir etkinliktir.
 
 
-http://2020.imisc.net/en/homepage/?title=Main_Page
-
 
 #### Devlet mi yoksa özel üniversite mi ?
 
