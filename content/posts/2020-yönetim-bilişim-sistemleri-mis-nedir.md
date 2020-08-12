@@ -1,7 +1,7 @@
 ---
 title: Yönetim Bilişim Sistemleri (MIS) Nedir ?
-date: 2020-08-12T12:21:47.630Z
-lastmod: 2020-08-12T12:24:18.576Z
+date: 2020-08-12T12:34:31.074Z
+lastmod: 2020-08-12T12:34:31.102Z
 draft: false
 categories:
   - YBS Nedir
