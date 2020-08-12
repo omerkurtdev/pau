@@ -157,11 +157,15 @@ Günümüzde hem bilişim hem de işletme alanında değerli kaynakların hepsi 
 ----------
 
 
-Son olarak seveceğiniz yada seveceğinizi düşündüğünüz bir işi yapın zaten bu olduktan sonra geliştirdiğiniz, yaptığınız araştırdığınız her şeyi büyük bir zevkle yapıyorsunuz. **Önemli olan sizsiniz ve sizin hayalleriniz durmadan sıkılmadan daha büyük hayaller kuralım !!**
+Son olarak seveceğiniz yada seveceğinizi düşündüğünüz bir işi yapın zaten bu olduktan sonra geliştirdiğiniz, yaptığınız araştırdığınız her şeyi büyük bir zevkle yapıyorsunuz.
+{{< admonition >}}
+**Önemli olan sizsiniz ve sizin hayalleriniz durmadan sıkılmadan daha büyük hayaller kuralım !!**
+{{< /admonition >}}
 
+{{< admonition quote >}}
 ### Hayattaki mesleğiniz, en büyük neşenizin dünyanın en büyük ihtiyacını karşıladığı yerdir.
 **— Frederick Buechner**
-
+{{< /admonition >}}
 
 Eğer aklınıza takılan sorular olursa aşağıda bıraktığım linklerden benimle iletişime geçebilirsiniz :)
 
