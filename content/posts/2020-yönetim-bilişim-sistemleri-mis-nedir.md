@@ -170,4 +170,4 @@ Eğer aklınıza takılan sorular olursa aşağıda bıraktığım linklerden be
 
  [Telegram](https://t.me/aoguz1)
 
-[Kişisel Web Sitesi]((https://www.abdullahoguz.com))
+[Kişisel Web Sitesi](https://www.abdullahoguz.com)
