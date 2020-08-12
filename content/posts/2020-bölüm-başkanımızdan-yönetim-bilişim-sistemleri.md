@@ -1,8 +1,8 @@
 ---
-title: Bölüm Başkanımızdan Yönetim Bilişim Sistemleri
+title: Bölüm Başkanımızdan Yönetim Bilişim Sistemleri | 2016
 subtitle: Bölüm Başkanımızdan Yönetim Bilişim Sistemleri
-date: 2016-05-20T12:10:20.865Z
-lastmod: 2020-08-12T12:09:48.148Z
+date: 2020-08-12T12:13:26.276Z
+lastmod: 2020-08-12T12:13:39.189Z
 draft: false
 categories:
   - YBS Nedir
