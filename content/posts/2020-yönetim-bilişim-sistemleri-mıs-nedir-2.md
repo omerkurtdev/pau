@@ -42,7 +42,7 @@ Burada direkt olarak şu üniversite demek yerine akademik kadro, bilişim şirk
 
 * Veri tabanı uzmanı
 * Veri tabanı analisti
-* Sistem Analisti
+* Sistem Analisti 
 * SEO uzmanı
 * Network uzmanı
 * Sosyal Medya Uzmanı
