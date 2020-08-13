@@ -1,28 +1,28 @@
 ---
-title: Ayşegül Çoban'nın Yatay Geçiş Tecrübesi ve YBS
-subtitle: Ayşegül Çoban'nın Yatay Geçiş Tecrübesi ve YBS
-date: 2018-07-07T21:00:00.000+00:00
-lastmod: 2020-08-08T21:00:00.000+00:00
-author: Aşegül Çoban
+license: ""
+draft: false
 authorLink: https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-%C3%A7oban-b134b7140/
-description: Ayşegül bu yazıda bizlere yaşamış olduğu yatay geçiş tecrübesini ve YBS
-  hakkında bazı soruları yanıtlayacak.
-tags:
-- PAU
-- YBS
-categories:
-- YBS Nedir
 hiddenFromHomePage: false
-hiddenFromSearch: false
-featuredImage: ''
-featuredImagePreview: "/images/pamukkaleybs.png"
 toc:
   enable: true
 math:
   enable: false
+title: Ayşegül Çoban'nın Yatay Geçiş Tecrübesi ve YBS
+subtitle: Ayşegül Çoban'nın Yatay Geçiş Tecrübesi ve YBS
+date: 2018-07-07T21:00:00.000+00:00
+lastmod: 2020-08-08T21:00:00.000+00:00
+categories:
+  - YBS Nedir
+tags:
+  - PAU
+  - YBS
+author: Ayşegül Çoban
+description: Ayşegül bu yazıda bizlere yaşamış olduğu yatay geçiş tecrübesini ve
+  YBS hakkında bazı soruları yanıtlayacak.
+hiddenFromSearch: false
 lightgallery: true
-license: ''
-
+featuredImage: ""
+featuredImagePreview: /images/pamukkaleybs.png
 ---
 Ayşegül bu yazıda bizlere yatay geçiş tecrübesini ve YBS hakkında bazı soruları yanıtlayacak. <!--more-->
 
