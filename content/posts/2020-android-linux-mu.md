@@ -2,7 +2,7 @@
 title: Android Linux mu?
 date: 2020-08-21T00:07:57.395Z
 lastmod: 2020-08-21T00:07:57.462Z
-draft: true
+draft: false
 categories:
   - İşletim Sistemleri
 tags:
