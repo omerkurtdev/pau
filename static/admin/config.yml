@@ -12,6 +12,7 @@ collections:
    folder: "content/posts/"
    create: true
    slug: "{{year}}-{{slug}}"
+   preview_path: blog/{{slug}}
    fields:
       - {label: "Başlık", name: "title", widget: "string", required: true}
       - {label: "Altbaşlık", name: "subtitle", widget: "string", required: false}
