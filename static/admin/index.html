@@ -24,20 +24,30 @@
   CMS.registerPreviewStyle("./style.css");
 </script>
 <script>
-  var PostPreview = createClass({
-    render: function() {
-      var entry = this.props.entry;
-      var image = entry.getIn(['data', 'image']);
-      var bg = this.props.getAsset(image);
-      return h('div', {},
-        h('h1', {}, entry.getIn(['data', 'title'])),
-        h('img', {src: bg.toString()}),
-        h('div', {"className": "text"}, this.props.widgetFor('body'))
-      );
-    }
-  });
+ var GeneralPreview = createClass({
+  render: function() {
+    var entry = this.props.entry;
+    var title = entry.getIn(['data', 'site_title']);
+    var posts = entry.getIn(['data', 'posts']);
+    var thumb = posts && posts.get('thumb');
 
-  CMS.registerPreviewTemplate("Postlar", PostPreview);
+    return h('div', {},
+      h('h1', {}, title),
+      h('dl', {},
+        h('dt', {}, 'Posts on Frontpage'),
+        h('dd', {}, this.props.widgetFor(['posts', 'front_limit']) || 0),
+
+        h('dt', {}, 'Default Author'),
+        h('dd', {}, this.props.widgetsFor('posts').getIn(['data', 'author']) || 'None'),
+
+        h('dt', {}, 'Default Thumbnail'),
+        h('dd', {}, thumb && h('img', {src: this.props.getAsset(thumb).toString()}))
+      )
+    );
+  }
+});
+
+  CMS.registerPreviewTemplate("Postlar", GeneralPreview);
 </script>
 </body>
 </html>
