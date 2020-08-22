@@ -53,3 +53,5 @@ collections:
       - {label: "Editör", name: "body", widget: "markdown"}
       
 logo_url: https://www.pauybs.com/images/avatar.png
+locale: 'tr'
+show_preview_links: false
