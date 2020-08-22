@@ -17,6 +17,8 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 lightgallery: false
 ---
+{{< youtube eNnfjnxWHCo >}}
+
 Tercih dönemlerinde artık adı sıkça anılan ve araştırılan bu bölümün öğrencilerinden biri olarak ben de kendimce "YBS (MIS) nedir ?, YBS hakkında sıkça sorulan sorular, YBS seçtim kendimi nasıl geliştiririm? " gibi konularda deneyimlediklerimi paylaşacağım.
 E o zaman haydi ! Bakalım neymiş bu YBS :)
 
