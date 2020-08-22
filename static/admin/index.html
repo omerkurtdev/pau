@@ -24,30 +24,25 @@
   CMS.registerPreviewStyle("./style.css");
 </script>
 <script>
- var GeneralPreview = createClass({
+var PostPreview = createClass({
   render: function() {
     var entry = this.props.entry;
-    var title = entry.getIn(['data', 'site_title']);
-    var posts = entry.getIn(['data', 'posts']);
-    var thumb = posts && posts.get('thumb');
-
+    var image = entry.getIn(['data', 'image']);
+    var bg = image && this.props.getAsset(image);
     return h('div', {},
-      h('h1', {}, title),
-      h('dl', {},
-        h('dt', {}, 'Posts on Frontpage'),
-        h('dd', {}, this.props.widgetFor(['posts', 'front_limit']) || 0),
-
-        h('dt', {}, 'Default Author'),
-        h('dd', {}, this.props.widgetsFor('posts').getIn(['data', 'author']) || 'None'),
-
-        h('dt', {}, 'Default Thumbnail'),
-        h('dd', {}, thumb && h('img', {src: this.props.getAsset(thumb).toString()}))
-      )
+      h('div', {className: "cover"},
+        h('h1', {}, entry.getIn(['data', 'title'])),
+        bg ? h('img', {src: bg.toString()}) : null
+      ),
+      h('p', {},
+        h('small', {}, "Written " + entry.getIn(['data', 'date']))
+      ),
+      h('div', {"className": "text"}, this.props.widgetFor('body'))
     );
   }
 });
 
-  CMS.registerPreviewTemplate("Postlar", GeneralPreview);
+  CMS.registerPreviewTemplate("Postlar", PostPreview);
 </script>
 </body>
 </html>
