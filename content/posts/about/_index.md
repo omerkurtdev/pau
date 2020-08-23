@@ -19,7 +19,7 @@ lightgallery: false
 featuredImage: ""
 featuredImagePreview: ""
 ---
-Öğrenci Bloğu, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur. Siz de bloğa katkıda bulunmak istiyorsanız, yukarıda menüde bulunan `Editör Giriş`e tıklayarak orda üye olup hemen bir blog yazısı oluşturabilirsiniz. Web site kullanımı yada blog yazımı hakkında bilgi almak için [Telegram](https://t.me/pauybs) adresimizden ulaşabilirsiniz.
+Öğrenci Bloğu, birbirlerine yardım etmek için bir araya gelen bilişimcilerden oluşan bir topluluktur. Siz de bloğa katkıda bulunmak istiyorsanız, yukarıda menüde bulunan `Editör Giriş'`e tıklayıp üye olduktan sonra size gelen maili onaylamanız gerekmektedir. Web site kullanımı yada blog yazımı hakkında bilgi almak için [Telegram](https://t.me/pauybs) adresimizden ulaşabilirsiniz.
 
 {{< admonition quote >}}
 **Paylaştığın senindir, biriktirdiğin değil!**
