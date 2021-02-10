@@ -25,6 +25,7 @@ lightgallery: true
 license: ''
 
 ---
-Halime Üstündağ'ın 2018 yılında çekmiş olduğu video aşağıda, bakalım YBS hakkında neler  <!--more-->
+Halime Üstündağ'ın 2018 yılında çekmiş olduğu video aşağıda, bakalım YBS hakkında neler demiş?
+<!--more-->
 
 {{< youtube 65WmS1OEAfw >}}
